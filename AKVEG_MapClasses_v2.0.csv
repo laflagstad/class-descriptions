@@ -1,0 +1,178 @@
+﻿bioclimatic_zone,structure,category,physiography_limit,map_class,target,macrogroup_code,macrogroup,group_code,group
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Silver Fir (- Western Hemlock) Forest Mesic,group,M024,North Pacific Coastal Rainforest,G241,Coastal Silver Fir - Western Hemlock Rainforest
+1. Temperate,deciduous tree,mesic vegetation,none,Alaska Pacific Birch Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G750,Coastal Alaskan Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,mixed tree,mesic vegetation,none,Alaska Pacific Sitka Spruce - Cottonwood Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G750,Coastal Alaskan Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Sitka Spruce Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G750,Coastal Alaskan Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Western Hemlock (- Sitka Spruce) Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G750,Coastal Alaskan Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Western Redcedar (- Western Hemlock) Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G750,Coastal Alaskan Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Yellow Cedar (- Western Hemlock) Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G750,Coastal Alaskan Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,North Pacific Sitka Spruce Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G751,Coastal Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,North Pacific Western Hemlock (- Sitka Spruce) Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G751,Coastal Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,North Pacific Western Redcedar (- Western Hemlock) Forest Mesic,subgroup,M024,North Pacific Coastal Rainforest,G751,Coastal Western Hemlock - Sitka Spruce Rainforest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Mountain Hemlock - Sitka/Lutz Spruce Forest Mesic,alliance,M025,Vancouverian Subalpine-High Montane Forest,G850,Alaskan Mountain Hemlock Forest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Mountain Hemlock Forest Mesic,alliance,M025,Vancouverian Subalpine-High Montane Forest,G850,Alaskan Mountain Hemlock Forest
+1. Temperate,coniferous tree,mesic vegetation,subalpine,Alaska Pacific Mountain Hemlock Subalpine Woodland Mesic,alliance,M025,Vancouverian Subalpine-High Montane Forest,G850,Alaskan Mountain Hemlock Forest
+1. Temperate,coniferous tree,mesic vegetation,subalpine,Alaska Pacific Sitka Spruce Subalpine Woodland Mesic,alliance,M025,Vancouverian Subalpine-High Montane Forest,G850,Alaskan Mountain Hemlock Forest
+1. Temperate,coniferous tree,mesic vegetation,none,Alaska Pacific Subalpine Fir (- Mountain Hemlock) Forest Mesic,alliance,M025,Vancouverian Subalpine-High Montane Forest,G850,Alaskan Mountain Hemlock Forest
+1. Temperate,coniferous tree,mesic vegetation,subalpine,Alaska Pacific Subalpine Fir Subalpine Woodland Mesic,alliance,M025,Vancouverian Subalpine-High Montane Forest,G850,Alaskan Mountain Hemlock Forest
+1. Temperate,mixed tree,wet vegetation,none,Alaska Pacific Cottonwood - Sitka Spruce / Western Hemlock Riparian Forest,alliance,M035,North Pacific Forested Wetland,G852,Alaska Pacific Riparian Forest
+1. Temperate,deciduous tree,wet vegetation,none,Alaska Pacific Cottonwood Riparian Forest,alliance,M035,North Pacific Forested Wetland,G852,Alaska Pacific Riparian Forest
+1. Temperate,deciduous tree,wet vegetation,none,Alaska Pacific Red Alder Riparian Forest,alliance,M035,North Pacific Forested Wetland,G852,Alaska Pacific Riparian Forest
+1. Temperate,coniferous tree,wet vegetation,none,Alaska Pacific Sitka Spruce Riparian Forest,alliance,M035,North Pacific Forested Wetland,G852,Alaska Pacific Riparian Forest
+1. Temperate,coniferous tree,wet vegetation,none,Alaska Pacific Sitka Spruce - Mountain Hemlock Forest Wet,alliance,M035,North Pacific Forested Wetland,G854,Alaska Pacific Swamp
+1. Temperate,coniferous tree,wet vegetation,none,Alaska Pacific Sitka Spruce Wet Forest,alliance,M035,North Pacific Forested Wetland,G854,Alaska Pacific Swamp
+1. Temperate,coniferous tree,wet vegetation,none,Alaska Pacific Western Hemlock (- Sitka Spruce) Forest Wet,,M035,North Pacific Forested Wetland,G854,Alaska Pacific Swamp
+1. Temperate,coniferous tree,wet vegetation,none,Alaska Pacific Yellow Cedar (- Western Hemlock / Mountain Hemlock) Forest Wet,alliance,M035,North Pacific Forested Wetland,G854,Alaska Pacific Swamp
+1. Temperate,unvegetated,barren,coastal,Alaska Pacific Coastal & Estuarine Barren,subgroup,M059,Pacific Coastal Beach & Dune,G498,North Pacific Maritime Dune & Coastal Beach
+1. Temperate,various,dune,coastal,Alaska Pacific Herbaceous & Shrub Coastal Dune,subgroup,M059,Pacific Coastal Beach & Dune,G498,North Pacific Maritime Dune & Coastal Beach
+1. Temperate,herbaceous,beach,coastal,Alaska Pacific Herbaceous Coastal Beach,subgroup,M059,Pacific Coastal Beach & Dune,G498,North Pacific Maritime Dune & Coastal Beach
+1. Temperate,herbaceous,tidal marsh,coastal,Alaska Pacific Coastal Salt Marsh,group,M081,North American Pacific Coastal Salt Marsh,G499,Temperate Pacific Salt Marsh
+1. Temperate,herbaceous,mesic vegetation,alpine,Alaska Pacific Alpine Mesic Meadow,group,M101,North Pacific Coastal Alpine Tundra,G1191,Alaska Pacific Alpine Mesic Meadow
+1. Temperate,unvegetated,barren,alpine,Alaska Pacific Alpine Barren & Sparsely Vegetated,group,M101,North Pacific Coastal Alpine Tundra,G1203,Alaska Pacific Alpine Bedrock & Scree
+1. Temperate,dwarf shrub,mesic vegetation,alpine,Alaska Pacific Dryas Dwarf Shrub,alliance,M101,North Pacific Coastal Alpine Tundra,G968,Alaska Pacific Alpine Shrubland
+1. Temperate,dwarf shrub,mesic vegetation,alpine,Alaska Pacific Ericaceous Dwarf Shrub Alpine,subgroup,M101,North Pacific Coastal Alpine Tundra,G968,Alaska Pacific Alpine Shrubland
+1. Temperate,dwarf shrub,mesic vegetation,alpine,Alaska Pacific Willow (- Dryas) Dwarf Shrub,alliance,M101,North Pacific Coastal Alpine Tundra,G968,Alaska Pacific Alpine Shrubland
+1. Temperate,herbaceous,tidal marsh,coastal,Alaska Pacific Coastal Algal Flat,group,M106,Temperate Pacific Seaweed Intertidal Vegetation,G385,North American Pacific Intertidal Algal Flat
+1. Temperate,herbaceous,wet vegetation,none,Western Temperate Freshwater Aquatic Vegetation,exclude,M109,Western North American Freshwater Aquatic Vegetation,G544,Western Temperate Freshwater Aquatic Vegetation
+1. Temperate,shrub,mesic vegetation,none,Alaska Pacific Alder Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G354,Alaska Pacific Alder - Salmonberry - Willow Shrubland
+1. Temperate,shrub,mesic vegetation,none,Alaska Pacific Alder-Willow Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G354,Alaska Pacific Alder - Salmonberry - Willow Shrubland
+1. Temperate,shrub,mesic vegetation,none,Alaska Pacific Ericaceous (- Birch) Shrub Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G354,Alaska Pacific Alder - Salmonberry - Willow Shrubland
+1. Temperate,shrub,mesic vegetation,none,Alaska Pacific Salmonberry Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G354,Alaska Pacific Alder - Salmonberry - Willow Shrubland
+1. Temperate,shrub,dry vegetation,none,Alaska Pacific Shrub Dry,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G354,Alaska Pacific Alder - Salmonberry - Willow Shrubland
+1. Temperate,shrub,mesic vegetation,none,Alaska Pacific Willow Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G354,Alaska Pacific Alder - Salmonberry - Willow Shrubland
+1. Temperate,herbaceous,mesic vegetation,none,Alaska Pacific Calamagrostis - Forb Herbaceous Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G355,Alaska Pacific Grassland & Meadow
+1. Temperate,herbaceous,mesic vegetation,none,Alaska Pacific Forb (- Fern) Herbaceous Mesic,subgroup,M172,North Pacific Coastal Lowland-Montane Grassland & Shrubland,G355,Alaska Pacific Grassland & Meadow
+1. Temperate,herbaceous,wet vegetation,none,Alaska Pacific Calamagrostis - Sedge Wet Meadow (Mineral),subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1208,Alaska Pacific Marsh & Wet Meadow
+1. Temperate,herbaceous,wet vegetation,none,Alaska Pacific Forb - Graminoid Wet Meadow (Mineral),subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1208,Alaska Pacific Marsh & Wet Meadow
+1. Temperate,herbaceous,freshwater marsh,none,Alaska Pacific Freshwater Marsh,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1208,Alaska Pacific Marsh & Wet Meadow
+1. Temperate,herbaceous,wet vegetation,none,Alaska Pacific Sedge Wet Meadow (Mineral),subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1208,Alaska Pacific Marsh & Wet Meadow
+1. Temperate,shrub,wet vegetation,none,Alaska Pacific Alder-Willow Wet,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1209,Alaska Pacific Shrub Wetland
+1. Temperate,shrub,wet vegetation,none,Alaska Pacific Ericaceous (- Birch) Shrub Wet,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1209,Alaska Pacific Shrub Wetland
+1. Temperate,shrub,wet vegetation,none,Alaska Pacific Willow Wet,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1209,Alaska Pacific Shrub Wetland
+1. Temperate,shrub,mesic vegetation,riverine,Alaska Pacific Alder-Willow Floodplain Mesic,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1210,Alaska Pacific Shrub & Graminoid Floodplain
+1. Temperate,dwarf shrub,mesic vegetation,riverine,Alaska Pacific Dryas Dwarf Shrub Floodplain Mesic,alliance,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1210,Alaska Pacific Shrub & Graminoid Floodplain
+1. Temperate,unvegetated,barren,riverine,Alaska Pacific Barren & Sparsely Vegetated Floodplain,alliance,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1210,Alaska Pacific Shrub & Graminoid Floodplain
+1. Temperate,herbaceous,mesic vegetation,riverine,Alaska Pacific Forb - Graminoid Floodplain Mesic,alliance,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1210,Alaska Pacific Shrub & Graminoid Floodplain
+1. Temperate,shrub,mesic vegetation,riverine,Alaska Pacific Willow Floodplain Mesic,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1210,Alaska Pacific Shrub & Graminoid Floodplain
+1. Temperate,various,peatland,ombrotrophic,"Alaska Pacific (Dwarf Shrub) Sedge-Sphagnum Peatland, Ombrotrophic",subgroup,M559,North Pacific Bog & Acidic Fen,G284,North Pacific Open Bog & Acidic Fen
+1. Temperate,shrub,peatland,ombrotrophic,"Alaska Pacific Shrub-Sphagnum Peatland, Ombrotrophic",subgroup,M559,North Pacific Bog & Acidic Fen,G284,North Pacific Open Bog & Acidic Fen
+1. Temperate,coniferous tree,peatland,ombrotrophic,"Alaska Pacific Shore Pine - Sitka Spruce Peatland, Ombrotrophic",alliance,M559,North Pacific Bog & Acidic Fen,G610,North Pacific Maritime Wooded Bog & Poor Fen
+1. Temperate,herbaceous,peatland,minerotrophic,"Alaska Pacific Sedge Peatland, Minerotrophic",subgroup,M560,North Pacific Alkaline Fen,G285,North Pacific Alkaline Open Fen
+1. Temperate,shrub,peatland,minerotrophic,"Alaska Pacific Shrub-Sedge Peatland, Minerotrophic",subgroup,M560,North Pacific Alkaline Fen,G285,North Pacific Alkaline Open Fen
+1. Temperate,unvegetated,barren,none,Alaska Pacific Barren & Sparsely Vegetated,group,M887,"Western North American Cliff, Scree & Rock",G318,"North Pacific Montane Cliff, Scree & Rock"
+2. Northern Subpolar Oceanic,dwarf shrub,mesic vegetation,none,Aleutian-Kamchatka Ericaceous (- Willow) Dwarf Shrub Mesic,group,M539,"Aleutian-Kamchatka Maritime Heath, Shrub & Meadow",G362,Aleutian-Kamchatka Ericaceous Dwarf-shrubland
+2. Northern Subpolar Oceanic,shrub,mesic vegetation,none,Aleutian-Kamchatka Willow Shrub Mesic,alliance,M539,"Aleutian-Kamchatka Maritime Heath, Shrub & Meadow",G860,Aleutian-Kamchatka Mesic Shrubland
+2. Northern Subpolar Oceanic,herbaceous,mesic vegetation,none,Aleutian-Kamchatka Graminoid - Forb Mesic,group,M539,"Aleutian-Kamchatka Maritime Heath, Shrub & Meadow",G861,Aleutian-Kamchatka Mesic Forb Meadow
+2. Northern Subpolar Oceanic,unvegetated,barren,riverine,Aleutian-Kamchatka Barren & Sparsely Vegetated Floodplain,alliance,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1207,Aleutian-Kamchatka Shrub & Graminoid Floodplain
+2. Northern Subpolar Oceanic,herbaceous,mesic vegetation,riverine,Aleutian-Kamchatka Graminoid - Forb Floodplain Mesic,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1207,Aleutian-Kamchatka Shrub & Graminoid Floodplain
+2. Northern Subpolar Oceanic,shrub,mesic vegetation,riverine,Aleutian-Kamchatka Willow Floodplain Mesic,subgroup,M558,"Alaska Pacific Marsh, Wet Meadow & Shrub Wetland",G1207,Aleutian-Kamchatka Shrub & Graminoid Floodplain
+2. Northern Subpolar Oceanic,unvegetated,barren,none,Aleutian-Kamchatka Barren & Sparsely Vegetated,group,M887,"Western North American Cliff, Scree & Rock",G1192,"Aleutian-Kamchatka Cliff, Scree & Rock"
+3. Boreal,deciduous tree,mesic vegetation,none,Alaska-Yukon Birch Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Black Spruce Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon Black Spruce-Deciduous Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Mixed Spruce Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon Mixed Spruce-Deciduous Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,deciduous tree,mesic vegetation,burned,Alaska-Yukon Recent Burn Recovering Birch (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon White Spruce Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon White Spruce-Aspen Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon White Spruce-Birch Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon White Spruce-Poplar Forest Mesic (Central),,M156,Alaska-Yukon North American Boreal Forest,G579,Central Alaska-Yukon Boreal Mesic Forest
+3. Boreal,deciduous tree,mesic vegetation,none,Alaska-Yukon Birch Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Black Spruce Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon Black Spruce-Deciduous Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Mixed Spruce Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon Mixed Spruce-Deciduous Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,deciduous tree,mesic vegetation,none,Alaska-Yukon Poplar Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,deciduous tree,mesic vegetation,burned,Alaska-Yukon Recent Burn Recovering Birch (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon White Spruce Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon White Spruce-Aspen Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon White Spruce-Birch Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,mixed tree,mesic vegetation,none,Alaska-Yukon White Spruce-Poplar Forest Mesic (Southern),,M156,Alaska-Yukon North American Boreal Forest,G627,Southern Alaskan Boreal Mesic Forest
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Black Spruce Woodland Mesic,,M179,North American Northern Boreal Woodland,G1195,Alaska-Yukon Northern & Montane Boreal Mesic Woodland
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Mixed Spruce Woodland Mesic,,M179,North American Northern Boreal Woodland,G1195,Alaska-Yukon Northern & Montane Boreal Mesic Woodland
+3. Boreal,deciduous tree,mesic vegetation,none,Alaska-Yukon Poplar Woodland Mesic,,M179,North American Northern Boreal Woodland,G1195,Alaska-Yukon Northern & Montane Boreal Mesic Woodland
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon Spruce-Lichen Woodland Mesic,,M179,North American Northern Boreal Woodland,G1195,Alaska-Yukon Northern & Montane Boreal Mesic Woodland
+3. Boreal,coniferous tree,mesic vegetation,none,Alaska-Yukon White Spruce Woodland Mesic,,M179,North American Northern Boreal Woodland,G1195,Alaska-Yukon Northern & Montane Boreal Mesic Woodland
+3. Boreal,deciduous tree,steppe bluff,none,Alaska-Yukon Aspen Dry Woodland / Steppe Bluff,,M179,North American Northern Boreal Woodland,G349,Alaskan Boreal Dry Woodland
+3. Boreal,deciduous tree,mesic vegetation,none,Alaska-Yukon Aspen Forest Mesic (Successional),,M179,North American Northern Boreal Woodland,G349,Alaskan Boreal Dry Woodland
+3. Boreal,deciduous tree,mesic vegetation,burned,Alaska-Yukon Recent Burn Recovering Aspen,,M179,North American Northern Boreal Woodland,G349,Alaskan Boreal Dry Woodland
+3. Boreal,coniferous tree,wet vegetation,none,Alaska-Yukon Black Spruce Forest Wet,group,M299,North American Boreal Conifer Poor Swamp,G546,Alaska-Yukon Boreal Black Spruce Wet Forest
+3. Boreal,coniferous tree,mesic vegetation,riverine,Alaska-Yukon White Spruce Active Floodplain,,M300,North American Boreal Flooded & Rich Swamp Forest,G548,Alaska-Yukon Boreal Floodplain Forest
+3. Boreal,deciduous tree,mesic vegetation,riverine,Birch (- White Spruce) Active Floodplain,,M300,North American Boreal Flooded & Rich Swamp Forest,G548,Alaska-Yukon Boreal Floodplain Forest
+3. Boreal,deciduous tree,mesic vegetation,riverine,Poplar (- White Spruce) Active Floodplain,,M300,North American Boreal Flooded & Rich Swamp Forest,G548,Alaska-Yukon Boreal Floodplain Forest
+3. Boreal,dwarf shrub,mesic vegetation,none,Alaska-Yukon Dryas-Ericaceous Dwarf Shrub,,M404,Western Boreal Alpine Tundra,G613,Western Boreal Alpine Dwarf-shrubland
+3. Boreal,dwarf shrub,mesic vegetation,none,Alaska-Yukon Dryas-Willow Dwarf Shrub,,M404,Western Boreal Alpine Tundra,G613,Western Boreal Alpine Dwarf-shrubland
+3. Boreal,dwarf shrub,mesic vegetation,none,Alaska-Yukon Dwarf Shrub-Lichen,,M404,Western Boreal Alpine Tundra,G613,Western Boreal Alpine Dwarf-shrubland
+3. Boreal,dwarf shrub,mesic vegetation,none,Alaska-Yukon Ericaceous Dwarf Shrub,,M404,Western Boreal Alpine Tundra,G613,Western Boreal Alpine Dwarf-shrubland
+3. Boreal,herbaceous,mesic vegetation,alpine,Alaska-Yukon Alpine Meadow Mesic,group,M404,Western Boreal Alpine Tundra,G747,Western Boreal Alpine Acidic Mesic Meadow
+3. Boreal,unvegetated,barren,alpine,Alaska-Yukon Alpine Barren & Sparsely Vegetated,group,M404,Western Boreal Alpine Tundra,G785,"Western Boreal Alpine Cliff, Scree & Rock"
+3. Boreal,shrub,mesic vegetation,none,Alaska-Yukon Alder Mesic,,M537,North American Boreal Shrubland & Grassland,G1196,Western Boreal Mesic Alder - Willow Shrubland
+3. Boreal,shrub,mesic vegetation,none,Alaska-Yukon Alder-Willow Mesic,,M537,North American Boreal Shrubland & Grassland,G1196,Western Boreal Mesic Alder - Willow Shrubland
+3. Boreal,shrub,mesic vegetation,none,Alaska-Yukon Birch Shrub / Birch-Ericaceous Mesic,,M537,North American Boreal Shrubland & Grassland,G356,Western Boreal Mesic Birch - Willow Shrubland
+3. Boreal,shrub,mesic vegetation,none,Alaska-Yukon Birch-Willow Mesic,,M537,North American Boreal Shrubland & Grassland,G356,Western Boreal Mesic Birch - Willow Shrubland
+3. Boreal,shrub,mesic vegetation,burned,Alaska-Yukon Recent Burn Recovering Birch-Willow Mesic,,M537,North American Boreal Shrubland & Grassland,G356,Western Boreal Mesic Birch - Willow Shrubland
+3. Boreal,shrub,mesic vegetation,none,Alaska-Yukon Willow Mesic,,M537,North American Boreal Shrubland & Grassland,G356,Western Boreal Mesic Birch - Willow Shrubland
+3. Boreal,herbaceous,mesic vegetation,none,Alaska-Yukon Calamagrostis-Forb Meadow Mesic,,M537,North American Boreal Shrubland & Grassland,G358,Western Boreal Mesic Grassland & Meadow
+3. Boreal,herbaceous,mesic vegetation,none,Alaska-Yukon Forb-Graminoid Meadow Mesic Acidic,,M537,North American Boreal Shrubland & Grassland,G358,Western Boreal Mesic Grassland & Meadow
+3. Boreal,herbaceous,mesic vegetation,none,Alaska-Yukon Forb-Graminoid Meadow Mesic Alkaline,,M537,North American Boreal Shrubland & Grassland,G358,Western Boreal Mesic Grassland & Meadow
+3. Boreal,herbaceous,steppe bluff,none,Alaska-Yukon Herbaceous Steppe Bluff,,M537,North American Boreal Shrubland & Grassland,G359,Western Boreal Dry Shrubland & Grassland
+3. Boreal,various,dune,none,Alaska-Yukon Inland Dune,group,M537,North American Boreal Shrubland & Grassland,G374,Western Boreal Inland Dune
+3. Boreal,shrub,wet vegetation,burned,Alaska-Yukon Recent Burn Recovering Birch-Willow Wet,,M537,North American Boreal Shrubland & Grassland,G865,Western Boreal Wet Birch - Willow Low Shrubland
+3. Boreal,NULL,NULL,NULL,NULL,omit,M871,Boreal Freshwater Aquatic Vegetation,G769,North American Boreal Freshwater Aquatic Vegetation
+3. Boreal,various,peatland,ombrotrophic,"Alaska-Yukon (Dwarf Shrub) Sedge-Sphagnum Peatland, Ombrotrophic",subgroup,M876,North American Boreal & Subboreal Bog & Acidic Fen,G360,Western Boreal Bog & Acidic Fen
+3. Boreal,coniferous tree,peatland,ombrotrophic,"Alaska-Yukon Black Spruce Peatland, Ombrotrophic",,M876,North American Boreal & Subboreal Bog & Acidic Fen,G360,Western Boreal Bog & Acidic Fen
+3. Boreal,coniferous tree,peatland,ombrotrophic,"Alaska-Yukon Black Spruce-Tussock Peatland, Ombrotrophic",,M876,North American Boreal & Subboreal Bog & Acidic Fen,G360,Western Boreal Bog & Acidic Fen
+3. Boreal,shrub,peatland,ombrotrophic,"Alaska-Yukon Shrub-Sphagnum Peatland, Ombrotrophic",subgroup,M876,North American Boreal & Subboreal Bog & Acidic Fen,G360,Western Boreal Bog & Acidic Fen
+3. Boreal,various,peatland,ombrotrophic,"Alaska-Yukon Tussock Peatland, Ombrotrophic",,M876,North American Boreal & Subboreal Bog & Acidic Fen,G360,Western Boreal Bog & Acidic Fen
+3. Boreal,herbaceous,peatland,minerotrophic,"Alaska-Yukon Sedge Peatland, Minerotrophic",subgroup,M877,North American Boreal & Subboreal Alkaline Fen,G361,Western Boreal Alkaline Fen
+3. Boreal,shrub,peatland,minerotrophic,"Alaska-Yukon Shrub-Sedge Peatland, Minerotrophic",subgroup,M877,North American Boreal & Subboreal Alkaline Fen,G361,Western Boreal Alkaline Fen
+3. Boreal,shrub,mesic vegetation,riverine,Alaska-Yukon Alder-Willow Active Floodplain,,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G1194,Western Boreal Shrub & Graminoid Floodplain
+3. Boreal,unvegetated,barren,riverine,Alaska-Yukon Barren & Sparsely Vegetated Floodplain,alliance,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G1194,Western Boreal Shrub & Graminoid Floodplain
+3. Boreal,shrub,mesic vegetation,riverine,Alaska-Yukon Willow Active Floodplain,,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G1194,Western Boreal Shrub & Graminoid Floodplain
+3. Boreal,herbaceous,wet vegetation,riverine,Alaska-Yukon Forb-Graminoid Meadow Wet (Mineral),,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G528,Western Boreal Wet Meadow & Marsh
+3. Boreal,herbaceous,freshwater marsh,none,Alaska-Yukon Freshwater Marsh,,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G528,Western Boreal Wet Meadow & Marsh
+3. Boreal,herbaceous,wet vegetation,riverine,Alaska-Yukon Sedge Wet Meadow (Mineral),,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G528,Western Boreal Wet Meadow & Marsh
+3. Boreal,herbaceous,wet vegetation,riverine,Alaska-Yukon Sedge-Calamagrostis Wet Meadow (Mineral),,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G528,Western Boreal Wet Meadow & Marsh
+3. Boreal,shrub,wet vegetation,none,Alaska-Yukon Birch-Willow Wet,subgroup,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G865,Western Boreal Wet Birch - Willow Low Shrubland
+3. Boreal,shrub,wet vegetation,none,Alaska-Yukon Willow Wet,subgroup,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G865,Western Boreal Wet Birch - Willow Low Shrubland
+3. Boreal,shrub,wet vegetation,none,Alaska-Yukon Alder-Willow Wet,group,M894,"North American Boreal Marsh, Wet Meadow & Shrubland",G866,Western Boreal Wet Alder - Willow Tall Shrub Swamp
+3. Boreal,unvegetated,barren,none,Alaska-Yukon Barren & Sparsely Vegetated,group,M895,"North American Boreal Cliff, Scree & Rock",G822,"Western Boreal Cliff, Scree & Rock"
+4. Arctic,various,complex,none,Arctic Non-Tussock Polygonal Complex,complex,complex,complex,complex,complex
+4. Arctic,various,complex,none,Arctic Tussock Tundra Polygonal Complex,complex,complex,complex,complex,complex
+4. Arctic,shrub,peatland,ombrotrophic,"Arctic Shrub-Sedge Peatland, Ombrotrophic",alliance,M001ak,Arctic Permafrost Bog and Acidic Fen,G0001ak,"Arctic Permafrost Peatland, Ombrotrophic"
+4. Arctic,herbaceous,peatland,ombrotrophic,"Arctic Sphagnum-Sedge Peatland, Ombrotrophic",alliance,M001ak,Arctic Permafrost Bog and Acidic Fen,G0001ak,"Arctic Permafrost Peatland, Ombrotrophic"
+4. Arctic,herbaceous,peatland,minerotrophic,"Arctic Brown Moss-Sedge Peatland, Minerotrophic",alliance,M002ak,Arctic Permafrost Alkaline Fen,G0002ak,"Arctic Permafrost Peatland, Minerotrophic"
+4. Arctic,shrub,peatland,minerotrophic,"Arctic Shrub-Sedge Peatland, Minerotrophic",alliance,M002ak,Arctic Permafrost Alkaline Fen,G0002ak,"Arctic Permafrost Peatland, Minerotrophic"
+4. Arctic,dwarf shrub,tussock tundra,none,Arctic Tussock Dwarf Shrub Tundra,subgroup,M173,Arctic Dry-Moist Tundra,G1198,Arctic Tussock Tundra
+4. Arctic,shrub,tussock tundra,none,Arctic Tussock Low Shrub Tundra,subgroup,M173,Arctic Dry-Moist Tundra,G1198,Arctic Tussock Tundra
+4. Arctic,herbaceous,mesic vegetation,none,Arctic Herbaceous Non-Tussock Tundra,group,M173,Arctic Dry-Moist Tundra,G1199,Arctic Nontussock Tundra
+4. Arctic,herbaceous,mesic vegetation,Circumpolar Subzone C,High Arctic Herbaceous (Nontussock) Tundra,group,M173,Arctic Dry-Moist Tundra,G1200,High Arctic Graminoid - Forb Tundra
+4. Arctic,herbaceous,dune,none,Arctic Herbaceous Inland Dune,alliance,M173,Arctic Dry-Moist Tundra,G863,Arctic Inland Dune
+4. Arctic,shrub,dune,none,Arctic Willow Inland Dune,alliance,M173,Arctic Dry-Moist Tundra,G863,Arctic Inland Dune
+4. Arctic,dwarf shrub,mesic vegetation,none,Arctic Dryas(-Willow) Dwarf Shrub,subgroup,M173,Arctic Dry-Moist Tundra,G896,Arctic Dwarf-shrub Tundra
+4. Arctic,dwarf shrub,mesic vegetation,none,Arctic Ericaceous(-Dryas) Dwarf Shrub,subgroup,M173,Arctic Dry-Moist Tundra,G896,Arctic Dwarf-shrub Tundra
+4. Arctic,shrub,mesic vegetation,none,Arctic Alder(-Willow) Shrub Mesic,subgroup,M173,Arctic Dry-Moist Tundra,G897,Arctic Low Shrub Tundra
+4. Arctic,shrub,mesic vegetation,none,Arctic Birch(-Willow) Shrub Mesic,subgroup,M173,Arctic Dry-Moist Tundra,G897,Arctic Low Shrub Tundra
+4. Arctic,shrub,mesic vegetation,none,Arctic Willow Low Shrub Mesic,subgroup,M173,Arctic Dry-Moist Tundra,G897,Arctic Low Shrub Tundra
+4. Arctic,unvegetated,barren,none,Arctic Barren & Sparsely Vegetated,group,M175,"Arctic Scree, Rock & Cliff Barrens",G869,"Arctic Open Scree, Rock & Cliff Barrens"
+4. Arctic,NULL,NULL,NULL,NULL,omit,M402,North American Arctic Coastal Shore,G611,Arctic Coastal Rocky Shore
+4. Arctic,unvegetated,barren,coastal,Arctic Coastal & Estuarine Barren,alliance,M402,North American Arctic Coastal Shore,G864,Arctic Coastal Dune & Beach
+4. Arctic,various,dune,coastal,Arctic Herbaceous & Shrub Coastal Dune,alliance,M402,North American Arctic Coastal Shore,G864,Arctic Coastal Dune & Beach
+4. Arctic,herbaceous,beach,coastal,Arctic Herbaceous Coastal Beach,alliance,M402,North American Arctic Coastal Shore,G864,Arctic Coastal Dune & Beach
+4. Arctic,unvegetated,barren,coastal,Arctic Salt-Killed Tundra Or Marsh,alliance,M402,North American Arctic Coastal Shore,G864,Arctic Coastal Dune & Beach
+4. Arctic,herbaceous,tidal marsh,coastal,Arctic Coastal Dwarf Shrub Graminoid Non-Tussock Tundra,alliance,M403,Arctic Tidal Salt Marsh,G535,Arctic & Subarctic Coastal Salt Marsh
+4. Arctic,herbaceous,tidal marsh,coastal,Arctic Coastal Salt Marsh,subgroup,M403,Arctic Tidal Salt Marsh,G535,Arctic & Subarctic Coastal Salt Marsh
+4. Arctic,shrub,mesic vegetation,riverine,Arctic Alder(-Willow) Floodplain,subgroup,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G1204,Arctic Shrub & Graminoid Floodplain
+4. Arctic,unvegetated,barren,riverine,Arctic Barren & Sparsely Vegetated Floodplain,subgroup,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G1204,Arctic Shrub & Graminoid Floodplain
+4. Arctic,dwarf shrub,mesic vegetation,riverine,Arctic Dryas(-Willow) Floodplain,subgroup,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G1204,Arctic Shrub & Graminoid Floodplain
+4. Arctic,herbaceous,mesic vegetation,riverine,Arctic Herbaceous Floodplain,subgroup,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G1204,Arctic Shrub & Graminoid Floodplain
+4. Arctic,various,wet vegetation,riverine,Arctic Stream Corridor,,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G1204,Arctic Shrub & Graminoid Floodplain
+4. Arctic,shrub,mesic vegetation,riverine,Arctic Willow Floodplain,subgroup,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G1204,Arctic Shrub & Graminoid Floodplain
+4. Arctic,herbaceous,freshwater marsh,none,Arctic Freshwater Marsh,group,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G370,Arctic Freshwater Marsh
+4. Arctic,herbaceous,wet vegetation,riverine,Arctic Wet Meadow (Mineral),group,M870,Arctic Freshwater Marsh and Riverine Herbaceous & Shrubland,G617,Arctic Wet Meadow
+None,unvegetated,other,none,Agricultural,,NULL,NULL,NULL,NULL
+None,various,other,none,Disturbed Vegetation,,NULL,NULL,NULL,NULL
+None,unvegetated,other,none,Infrastructure,,NULL,NULL,NULL,NULL
+None,unvegetated,other,none,Permanent Snow / Ice,,NULL,NULL,NULL,NULL
+None,unvegetated,other,none,Persistent Waterbody,,NULL,NULL,NULL,NULL
+None,unvegetated,other,burned,Recently Burned (≤ 5 Years),,NULL,NULL,NULL,NULL
