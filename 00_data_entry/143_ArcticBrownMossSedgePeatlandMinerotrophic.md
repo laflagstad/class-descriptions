@@ -6,7 +6,7 @@
 
 **Level:** Map Class
 
-**Code:** 29
+**Code:** 143
 
 **Concept:** This [level] encompasses minerotrophic peatlands underlain by near-surface permafrost in histel soils dominated or co-dominated by combinations of hydrophytic taxa within Cyperaceae or hydrophytic, non-*Sphagnum* mosses (i.e., “brown” mosses).
 
