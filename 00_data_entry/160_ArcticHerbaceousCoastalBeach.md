@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is dominated by the grass *Leymus mollis* and indicated by the salt-tolerant forbs *Hockenya peploides* and *Lathyrus japonicus var. maritimus*. Throughout the range of this map class *Festuca rubra* and *Mertensia maritima* may also be present. Along the Bering Sea coast *Poa eminens, Senecio pseudoarnica, Ligusticum scoticum,* and *Conioselinum chinense* are more common. While *Festuca baffinensis* and *Cnidium cnidiifolium* are more common components along the Arctic Ocean coast.
+**Floristics Description:** This [level] is dominated by the grass *Leymus mollis* and indicated by the salt-tolerant forbs *Hockenya peploides* and *Lathyrus japonicus var. maritimus*. Throughout the range of this map class *Festuca rubra* and *Mertensia maritima* may also be present. Along the Bering Sea coast, *Poa eminens, Senecio pseudoarnica, Ligusticum scoticum,* and *Conioselinum chinense* are common components, whereas *Festuca baffinensis* and *Cnidium cnidiifolium* are more common along the Arctic Ocean coast.
 
 [diagnostic_plot]
 
