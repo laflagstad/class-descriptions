@@ -97,4 +97,5 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 ## References
 
 NatureServe. 2026. NatureServe Explorer [web application]. NatureServe, Arlington, Virginia. Available https://explorer.natureserve.org/pro/. (Accessed: February 17, 2026).
+
 Boucher, T. V., L. A. Flagstad, and B. Bernard B. 2016. National Vegetation Classification: Boreal and Arctic Alaska regional analysis. Alaska Center for Conservation Science, University of Alaska Anchorage. Anchorage, Alaska. 77 pp.
