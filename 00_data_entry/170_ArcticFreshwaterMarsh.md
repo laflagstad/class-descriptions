@@ -56,7 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Arctic freshwater marshes occur as small patcches throughout arctic and subarctic Alaska. They develop along the margins or ponds, lakes, beaded streams, and ponds on floodplains.
+**Range Description:** Arctic freshwater marshes occur as small patches throughout the Arctic bioclimatic zone of Alaska. They develop along the margins of ponds, lakes, and beaded streams, and on floodplains.
 
 **Rarity on Landscape:** Common
 
