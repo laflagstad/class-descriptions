@@ -28,7 +28,7 @@
 
 **Structural Description:** This [level] is characterized by emergent  and aquatic vegetation. It is dominated by emergent sedges, grasses, and forbs, but other structural groups may be present at low abundances.
 
-**Structural Class:** graminoid emergent, forb emergent, aquatic forb
+**Structural Class:** graminoid emergent, sedge emergent, aquatic forb
 
 Table 1. Mean and range for structural characteristics for [unit_name].
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is dominated by *Arctophila fulva, Carex aquatilis, or Eriophorum angustifolium.* Dominant species that occur in the subarctic include:  *Comarum palustre, Hippuris vulgaris, Lysimachia thyrsiflora, Carex utriculata, Scirpus valides, Typha latifolia, Menyanthes trifoliata,* and *Equisetum fluviatile.*
+**Floristics Description:** This [level] is dominated by *Arctophila fulva, Carex aquatilis, or Eriophorum angustifolium.* Dominant species that occur in the subarctic include:  *Comarum palustre, Hippuris vulgaris, Lysimachia thyrsiflora, Carex utriculata, Scirpus validus, Typha latifolia, Menyanthes trifoliata,* and *Equisetum fluviatile.*
 
 [diagnostic_plot]
 
