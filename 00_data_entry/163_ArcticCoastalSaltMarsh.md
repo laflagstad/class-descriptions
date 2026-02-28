@@ -56,7 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Common on coastal areas throughout the entire Arctic bioclimatic zone, but especially on the Arctic Coastal Plain.
+**Range Description:** Commonly found on intertidal zones throughout the entire Arctic bioclimatic zone, but especially on the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 
