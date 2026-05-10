@@ -38,8 +38,8 @@ database_repository = os.path.join(drive, root_folder, 'Repositories/akveg-datab
 credentials_folder = os.path.join(drive, root_folder, 'Administrative/Credentials/akveg_private_read')
 description_folder = os.path.join(drive, root_folder, 'Repositories/class-descriptions')
 input_folder = os.path.join(description_folder, '00_data_entry')
-plot_folder = os.path.join(description_folder, '02_plot_html')
-output_folder = os.path.join(description_folder, '03_description_html')
+plot_folder = os.path.join(description_folder, '03_plot_html')
+output_folder = os.path.join(description_folder, '04_description_html')
 
 # Define input data
 veg_input = os.path.join(drive, root_folder,
