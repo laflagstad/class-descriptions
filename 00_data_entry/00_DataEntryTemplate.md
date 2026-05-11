@@ -64,6 +64,8 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
+**Environment Description**: *Enter up to one paragraph describing the soils, moisture regime, drainage, pH, salinity as appropriate (e.g., do not describe salinity for non-saline systems). This paragraph should summarize the regional and local environmental gradients that control the distribution of the type and variation within the type.*
+
 **Physiography**: [physiography_text]
 
 **Geomorphology:** [geomorph_text]
@@ -88,11 +90,11 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Map Version**: *Enter the version of the map that this description is current with.*
 
-**Described By:** *Enter the name (First Middle Initial Last) of the original description author.*
+**Described By:** *Enter the name (First Middle Initial Last) of the original description author(s).*
 
 **Date:** *Enter the date (yyyy-mm-dd) of the original description.*
 
-**Last Revised by:** *Enter the name (First Middle Initial Last) of the latest revision author.*
+**Last Revised by:** *Enter the name (First Middle Initial Last) of the latest revision author(s).*
 
 **Date:** *Enter the date (yyyy-mm-dd) of the revision.*
 
