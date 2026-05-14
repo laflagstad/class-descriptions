@@ -28,7 +28,7 @@
 
 **Structural Description:** This [level] is dominated by sedges and grasses. Forbs, dwarf shrubs, and bryophytes may occur sporadically. Lichens typically occur at low abundance or may be absent. Tussocks are not present. 
 
-**Structural Class:** grass meadow, forb meadow
+**Structural Class:** sedge meadow, grass meadow, forb meadow
 
 Table 1. Mean and range for structural characteristics for [unit_name].
 
