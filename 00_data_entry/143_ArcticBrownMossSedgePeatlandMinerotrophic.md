@@ -6,7 +6,7 @@
 
 **Level:** Map Class
 
-**Code:** 143
+**Code:** 263
 
 **Concept:** This [level] encompasses minerotrophic peatlands underlain by near-surface permafrost in histel soils dominated or co-dominated by combinations of hydrophytic taxa within Cyperaceae or hydrophytic, non-*Sphagnum* mosses (i.e., “brown” mosses).
 
@@ -62,6 +62,8 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
+**Environmental Summary:** This [level] is a type of minerotrophic wetland that forms on upper floodplain positions and drained lake basins. Soils are poorly-drained mineral soils capped with peat and mucky peat. Shallow and ice-rich permafrost retards the infiltration of surface water and promotes saturation. Minerotrophic wetlands receive water from ground or surface water that is rich in dissolved minerals. Physiography and water chemistry distinguish minerotrophic from ombrotrophic wetland types, leading to predictable differences in species composition, productivity, and soil properties. Dominance of brown mosses represents an early stage of peat formation with comparatively thin accumulations of organic material. Where a regional increase in temperature results in permafrost degradation and improved drainage, sites may transition out of a wetland condition. 
+
 **Physiography**: [physiography_text]
 
 **Geomorphology:** [geomorph_text]
@@ -90,9 +92,9 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Date:** 1132-04-12
 
-**Last Revised by:** Timm W. Nawrocki
+**Last Revised by:** Timm W. Nawrocki, Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-02-10
+**Date:** 2026-05-14
 
 ## References
 
