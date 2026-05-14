@@ -1,4 +1,4 @@
-# Description Data Entry Template
+# Description Data Entry
 
 ## Overview
 
@@ -6,9 +6,9 @@
 
 **Level:** Map Class
 
-**Code:** 170
+**Code:** 322
 
-**Concept:** This [level] represents small patches of emergent marsh vegetation that occur throughout arctic and subarctic Alaska and Canada, typically on the margins of ponds, lakes, and beaded streams that experience semi-permanent flooding.
+**Concept:** This [level] encompasses stands of emergent vegetation developing within standing and slow-moving waters underlain by permafrost.
 
 **Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
 
@@ -26,9 +26,9 @@
 
 ### Structure
 
-**Structural Description:** This [level] is characterized by emergent  and aquatic vegetation. It is dominated by emergent sedges, grasses, and forbs, but other structural groups may be present at low abundances.
+**Structural Description:** This [level] is characterized by emergent herbaceous vegetation and standing water. It is dominated by perennial sedges, grasses, forbs, and aquatic mosses. Woody species and lichens are absent. 
 
-**Structural Class:** graminoid emergent, sedge emergent, aquatic forb
+**Structural Class:** graminoid emergent, sedge emergent, forb emergent
 
 Table 1. Mean and range for structural characteristics for [unit_name].
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is dominated by *Arctophila fulva, Carex aquatilis, or Eriophorum angustifolium.* Dominant species that occur in the subarctic include:  *Comarum palustre, Hippuris vulgaris, Lysimachia thyrsiflora, Carex utriculata, Scirpus validus, Typha latifolia, Menyanthes trifoliata,* and *Equisetum fluviatile.*
+**Floristics Description:** Plant community composition in Arctic freshwater marshes follows a gradient of water depth and persistence. Deep and permanently flooded standing water often supports monocultures of *Arctophila fulva* with dominance transitioning to *Carex chordorrhiza*, *Carex aquatilis*, *Carex rariflora* and *Eriophorum angustifolium* as the water shallows. Emergent forbs such as *Comarum palustre*, *Hippuris vulgaris*, *Menyanthes trifoliata*, and *Equisetum fluviatile* are commonly associated species. Characteristic aquatic mosses include *Scorpidium scorpioides*, *Scorpidium revolvens*, *Sarmentypnum sarmentosum*, and *Drepanocladus* species.
 
 [diagnostic_plot]
 
@@ -56,11 +56,11 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Arctic freshwater marshes occur as small patches throughout the Arctic bioclimatic zone of Alaska. They develop along the margins of ponds, lakes, and beaded streams, and on floodplains.
-
 **Rarity on Landscape:** Common
 
 ## Environment
+
+**Environmental Summary:** Freshwater marshes typically develop along the margins of ponds, lakes, and floodplain overflow channels, as well as in the flooded centers of low-centered polygons and partially-drained lake basins. Soils are mucks and fine silts with nutrient rich water. Shallow, ice-rich permafrost retards the infiltration of surface waters and allows water to pool at or above the surface for most of the growing season. Due to high rates of decomposition, these are productive systems. As vegetation establishes in accordance with water depth, change in water level may cause a redistribution of component species. In oxbow lakes and overflow channels systems, low energy flooding may transport and deposit silt but generally does not scour or remove wetland vegetation.
 
 **Physiography**: [physiography_text]
 
@@ -90,9 +90,9 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Date:** 2016-01-08
 
-**Last Revised by:** Rhiannon C. Glover
+**Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-02-24
+**Date:** 2026-05-14
 
 ## References
 
