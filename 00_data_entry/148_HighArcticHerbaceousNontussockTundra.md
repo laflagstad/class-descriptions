@@ -8,7 +8,7 @@
 
 **Code:** 148
 
-**Concept:** This [level] represents mesic herbaceous vegetation dominated by perennial sedges, grasses, and/or broad-leaved herbaceous species found in the high arctic regions of Alaska and Canada.
+**Concept:** This [level] encompasses arctic tundra, dominated by herbaceous species with limited participation of dwarf shrubs and nonvascular species. The type extends from latitudinal treeline north across the coastal plain. 
 
 **Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
 
@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] is defined as a herbaceous type of vegetation dominated by non-tussock-forming perennial graminoids and broad-leaved herbaceous species. 
+**Structural Description:** This [level] is dominated by sedges and grasses. Forbs, dwarf shrubs, and bryophytes may occur sporadically. Lichens typically occur at low abundance or may be absent. Tussocks are not present. 
 
 **Structural Class:** grass meadow, forb meadow
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] typically has a greater than 25% cover of herbaceous species such as *Carex macrochaeta ssp. nesophila*, *Carex biglowii*, *Carex membranacea*, *Alopecurus alpinus*, *Arctogrostis latifolia*, *Lupinus arcticus*, and *Oxytropis maydelliana*. Low and dwarf shrubs such as *Dryas* spp., *Salix* spp., *Betula nana*, and ericaceous shrubs are also common, with less than 25% cover.
+**Floristics Description:** The dominant and characteristic graminoids are *Carex bigelowii*, *Carex aquatilis*, *Carex membranacea*, *Carex fuliginosa*, *Eriophorum angustifolium*, and *Arctagrostis latifolia*. Other common graminoids include *Carex scirpoidea*, *Kobresia myosuroides*, and *Poa arctica*. Dominant and characteristic forbs and fern allies include *Petasites frigidus*, *Valeriana capitata*, *Equisetum arvense*, and *Equisetum variegatum*. Other characteristic forbs include *Bistorta vivipara*, *Bistorta plumosa*, *Saxifraga hirculus*, *Pedicularis capitata*, *Saussurea angustifolia*, and *Tephroseris atropurpurea*. *Tomentypnum nitens*, *Hylocomium splendens*, and *Aulacomnium* species are characteristic bryophyte species. Where present, prostrate and dwarf shrubs may include *Dryas integrifolia*, *Salix reticulata*, *Salix arctica*, *Cassiope tetragona*, *Salix pulchra*, *Salix richardsonii*, and *Arctous rubra*. 
 
 [diagnostic_plot]
 
@@ -62,7 +62,9 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Physiography**: [physiography_text]
+**Environmental Summary:** This [level] occurs on lowland, upland and alpine physiography. Across the coastal plain, it is often associated with loess (wind-blown silt) and aeolian sands. Soils are alkaline, moderately drained, very fine sand to silty mineral soils overlain by organics. Surface organic layers typically range from thin in alpine areas and uplands to moderately thick in lowlands. While a permafrost regime is present, drainage within the active layer often precludes the formation of an ice-rich aquitard. Comparatively good drainage, in combination with exposure to wind limits the establishment of tussock forming sedges. This is a relatively stable type. 
+
+**Physiography:** [physiography_text]
 
 **Geomorphology:** [geomorph_text]
 
@@ -90,12 +92,16 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Date:** 2016-01-19
 
-**Last Revised by:** Rhiannon C. Glover
+**Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-02-27
+**Date:** 2026-04-24
 
 ## References
 
 NatureServe. 2026. NatureServe Explorer [web application]. NatureServe, Arlington, Virginia. Available https://explorer.natureserve.org/pro/. (Accessed: February 17, 2026).
 
 Boucher, T. V., L. A. Flagstad, and B. Bernard B. 2016. National Vegetation Classification: Boreal and Arctic Alaska regional analysis. Alaska Center for Conservation Science, University of Alaska Anchorage. Anchorage, Alaska. 77 pp. 
+
+Walker, M.D., D.A. Walker and N.A. Auerbach 1994. Plant communities of a tussock tundra landscape in the Brooks Range Foothills, Alaska. Journal of Vegetation Science 5: 843-866.
+
+Raynolds MK, Walker DA, Maier H. 2005. Plant community-level mapping of arctic Alaska based on the Circumpolar Arctic Vegetation Map. Phytocoenologia. 35:821–848. https://api.semanticscholar.org/CorpusID:85102832.
