@@ -2,11 +2,11 @@
 
 ## Overview
 
-**Unit Name:** High Arctic Herbaceous (Non-Tussock) Tundra
+**Unit Name:** Arctic Herbaceous (Non-Tussock) Tundra
 
 **Level:** Map Class
 
-**Code:** 148
+**Code:** 276
 
 **Concept:** This [level] encompasses arctic tundra, dominated by herbaceous species with limited participation of dwarf shrubs and nonvascular species. The type extends from latitudinal treeline north across the coastal plain. 
 
@@ -18,7 +18,7 @@
 
 **Macrogroup:** Arctic Dry-Moist Tundra
 
-**Group Code:** G1200
+**Group Code:** G1199
 
 **Group:** High Arctic Graminoid-Forb Tundra
 
