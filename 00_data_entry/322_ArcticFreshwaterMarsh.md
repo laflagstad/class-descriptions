@@ -60,9 +60,9 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environmental Summary:** Freshwater marshes typically develop along the margins of ponds, lakes, and floodplain overflow channels, as well as in the flooded centers of low-centered polygons and partially-drained lake basins. Soils are mucks and fine silts with nutrient rich water. Shallow, ice-rich permafrost retards the infiltration of surface waters and allows water to pool at or above the surface for most of the growing season. Due to high rates of decomposition, these are productive systems. As vegetation establishes in accordance with water depth, change in water level may cause a redistribution of component species. In oxbow lakes and overflow channels systems, low energy flooding may transport and deposit silt but generally does not scour or remove wetland vegetation.
+**Environment Description:** Freshwater marshes typically develop along the margins of ponds, lakes, and floodplain overflow channels, as well as in the flooded centers of low-centered polygons and partially-drained lake basins. Soils are mucks and fine silts with nutrient rich water. Shallow, ice-rich permafrost retards the infiltration of surface waters and allows water to pool at or above the surface for most of the growing season. Due to high rates of decomposition, these are productive systems. As vegetation establishes in accordance with water depth, change in water level may cause a redistribution of component species. In oxbow lakes and overflow channels systems, low energy flooding may transport and deposit silt but generally does not scour or remove wetland vegetation.
 
-**Physiography**: [physiography_text]
+**Physiography:** [physiography_text]
 
 **Geomorphology:** [geomorph_text]
 
