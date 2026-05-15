@@ -60,7 +60,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environment Description:** Non-tussock tundra forms on sites that are well-drained relative to tussock forming types. Tussocks form in response to prolonged water inundation that creates nutrient-poor, anoxic soils. These soils typically have thinner surface organic horizons, contain coarse fragments, and range from circumneutral to acidic. Polygonal tundra forms over ice-rich permafrost that undergoes seasonal freeze-thaw cycles, causing the ground to contract and expand, resulting in high- or low-centered polygons. In both cases, plant community composition is strongly influenced by microsite conditions and habitat preference.
+**Environment Description:** Non-tussock tundra forms on sites that are well-drained relative to tussock-forming types. Tussocks form in response to prolonged water inundation that creates nutrient-poor, anoxic soils, as they allow graminoids to elevate their live root mass above the level of continual saturation. These soils typically have thinner surface organic horizons, contain coarse fragments, and range from circumneutral to acidic. Polygonal tundra forms over ice-rich permafrost that undergoes seasonal freeze-thaw cycles, causing the ground to contract and expand, resulting in high- or low-centered polygons. In both cases, plant community composition is strongly influenced by microsite conditions and habitat preference.
 
 **Physiography:** [physiography_text]
 
