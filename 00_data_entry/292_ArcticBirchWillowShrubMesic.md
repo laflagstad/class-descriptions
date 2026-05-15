@@ -62,9 +62,9 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environmental Summary:** This class often occurs on peatlands on wetter lowlands and on moist, well-drained upland surfaces throughout the low arctic bioclimatic zones. On uplands, it occupies mesic to moist sideslopes, hillslopes, and ridges. In lowlands, it often occurs on high-centered polygons, drained lake basins, and terraces where feathermosses may be replaced by *Sphagnum* mosses.  Soils are acidic to circumneutral and well-drained, with a thin or moderately thick surface organic horizon. Permafrost is typically present beneath sites.
+**Environment Description:** This class often occurs on peatlands on wetter lowlands and on moist, well-drained upland surfaces throughout the low arctic bioclimatic zones. On uplands, it occupies mesic to moist sideslopes, hillslopes, and ridges. In lowlands, it often occurs on high-centered polygons, drained lake basins, and terraces where *Sphagnum* mosses may replace feathermosses.  Soils are acidic to circumneutral and well-drained, with a thin or moderately thick surface organic horizon. Permafrost is typically present beneath sites.
 
-**Physiography**: [physiography_text]
+**Physiography:** [physiography_text]
 
 **Geomorphology:** [geomorph_text]
 
