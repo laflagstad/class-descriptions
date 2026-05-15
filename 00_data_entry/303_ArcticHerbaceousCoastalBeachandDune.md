@@ -62,9 +62,9 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environmental Summary:** This class develops on coastal beach berms and dunes along the mainland coast as well as barrier islands and spits. Soils are well- to excessively well-drained sands. Sites are above the reach of maximum high tide but subject to wind-blown salt spray and occasional inundation by storm surges. This is a ruderal type held in an early-successional state by frequent disturbance. During snow- and ice-free periods, sites are fully exposed to coastal processes, especially erosion by wind and water. 
+**Environment Description:** This class develops on coastal beach berms and dunes along the mainland coast as well as barrier islands and spits. Soils are well- to excessively well-drained sands. Sites are above the reach of maximum high tide but subject to wind-blown salt spray and occasional inundation by storm surges. This is a ruderal type held in an early-successional state by frequent disturbance. During snow- and ice-free periods, sites are fully exposed to coastal processes, especially erosion by wind and water. 
 
-**Physiography**: [physiography_text]
+**Physiography:** [physiography_text]
 
 **Geomorphology:** [geomorph_text]
 
