@@ -61,6 +61,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 ## Environment
 
 **Environment Description**: Ericaceous Dwarf Shrub occurs in upland and lowland physiography located between the coastal zone and latitudinal tree line. This type develops continuous and lush vegetation on sites that are protected from the wind and retain snow such as valleys, north-facing slopes, and meadows. These sites are often underlain by ice-rich permafrost, resulting in surficial disturbances such as frost boils and scars. At higher elevations, this class develops discontinuous and lower stature vegetation in more wind exposed sites such as talus and scree slopes and concave microtopography along summits and ridges. Soils of these sites are well to excessively well-drained and range from acidic to circumneutral. These more exposed sites are susceptible to mass wasting events such as landslides and avalanches. 
+
 **Physiography:** [physiography_text]
 
 **Geomorphology:** [geomorph_text]
