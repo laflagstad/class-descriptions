@@ -62,7 +62,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environmental Summary:** This [level] occurs on lowland, upland and alpine physiography. Across the coastal plain, it is often associated with loess (wind-blown silt) and aeolian sands. Soils are alkaline, moderately drained, very fine sand to silty mineral soils overlain by organics. Surface organic layers typically range from thin in alpine areas and uplands to moderately thick in lowlands. While a permafrost regime is present, drainage within the active layer often precludes the formation of an ice-rich aquitard. Comparatively good drainage, in combination with exposure to wind limits the establishment of tussock forming sedges. This is a relatively stable type. 
+**Environment Description:** This [level] occurs on lowland, upland and alpine physiography. Across the coastal plain, it is often associated with loess (wind-blown silt) and aeolian sands. Soils are alkaline, moderately drained, very fine sand to silty mineral soils overlain by organics. Surface organic layers typically range from thin in alpine areas and uplands to moderately thick in lowlands. While a permafrost regime is present, drainage within the active layer often precludes the formation of an ice-rich aquitard. Comparatively good drainage, in combination with exposure to wind limits the establishment of tussock forming sedges. This is a relatively stable type. 
 
 **Physiography:** [physiography_text]
 
