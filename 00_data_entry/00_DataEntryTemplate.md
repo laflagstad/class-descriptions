@@ -6,7 +6,7 @@
 
 •	This guidance is meant to prompt consistent description. As the ecology of types differs, so will the order and emphasis of the information provided. The end goal is a consistent presentation of information using standardized terminology that does not sacrifice a natural flow and clarity of language.
 
-•	For all sections, use terminology accepted by AKVEG to the extent possible. This is especially important for discussions of physiography, geomorphology, macro and micro topography, moisture regime, and drainage. 
+•	For all sections, use terminology accepted by AKVEG to the extent possible. This is especially important for discussions of structural class, physiography, geomorphology, macro and micro topography, moisture regime, and drainage. 
 
 ## Overview
 
