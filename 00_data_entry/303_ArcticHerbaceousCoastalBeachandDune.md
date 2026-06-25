@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses herbaceous meadows developing on coastal beach berms and dunes that are exposed to salt-spray but are not tidally influenced.  
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** arcticmc_033_Nunivak.jpg, arcticmc_035_Nunivak.jpg, SSMT53_aer4.jpg
 
 ## Placement in AKNVC Hierarchy
 
@@ -54,6 +54,13 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
+
+*__Example text:__*
+*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
+
 ## Range
 
 **Range Description:** Common on coastlines throughout the Arctic bioclimatic zone.
@@ -86,7 +93,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: 2.0
+**Map Version**: 3.0
 
 **Described By:** Lindsey Flagstad, Keith Boggs
 

@@ -8,7 +8,7 @@
 
 **Code:** 263
 
-**Concept:** This [level] encompasses minerotrophic peatlands underlain by near-surface permafrost in histel soils dominated or co-dominated by combinations of hydrophytic taxa within Cyperaceae or hydrophytic, non-*Sphagnum* mosses (i.e., “brown” mosses).
+**Concept:** This [level] encompasses minerotrophic peatlands underlain by near-surface permafrost in organic-rich soils dominated or co-dominated by combinations of hydrophytic taxa within Cyperaceae or hydrophytic, brown mosses (i.e., non-*Sphagnum* mosses).  Soils are saturated, circumneutral, and cold causing moderate-nutrient and moderate-productivity conditions. This type is susceptible to change in hydrothermal regime.
 
 **Photos:** https://storage.googleapis.com/accs-public-data/npra_photos/GMT2-145/GMT2_145_t3.jpg, https://storage.googleapis.com/accs-public-data/npra_photos/GMT2-043/GMT2_043_s2.jpg, https://storage.googleapis.com/accs-public-data/npra_photos/GMT2-043/GMT2_043_s1.jpg
 
@@ -26,9 +26,9 @@
 
 ### Structure
 
-**Structural Description:** This [level] is dominated by sedges and mosses. Other structural groups may be present at low abundance.
+**Structural Description:** This [level] is dominated by non-tussock sedges and brown mosses. Dwarf shrubs, lichens and accessory forbs may be present at low abundance. 
 
-**Structural Class:** sedge emergent
+**Structural Class:** sedge meadow; bryoid herbaceous
 
 Table 1. Mean and range for structural characteristics for [unit_name].
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is indicated by combinations of hydrophytic taxa within Cyperaceae (i.e., wetland sedges) or hydrophytic, non-*Sphagnum* mosses (i.e., “brown” mosses). Diagnostic species are best considered as sets rather than individual species. Dominant species are highly variable, but <i>Carex aquatilis</i> and <i>Eriophorum angustifolium</i> have high constancy and frequently high cover. Less frequently, other hydrophytic species in Cyperaceae or brown mosses, such as those in the *Scorpidium*, may be dominant. <i>Sphagnum</i> mosses are often present but only at low cover (< 10%).
+**Floristics Description:** This [level] is indicated by combinations of hydrophytic taxa within Cyperaceae and hydrophytic, non-*Sphagnum* mosses (i.e., “brown” mosses). Dominant species are highly variable, but the sedges *Carex aquatilis*, and *Eriophorum angustifolium* and brown moss species in the *Tomentypnum*, *Campillium*, *Hamatocaulis*, *Warnstorfia*, and *Drepanocladus* genera have high constancy and frequently high cover. Less frequently, other hydrophytic sedges such as *Eriophorum russeolum*, *Carex saxatilis*, *Carex rotundata*, and *Carex membranacea* occur.  <i>Sphagnum</i> mosses, such as *Sphagnum warnstorfii* are often present but only at low cover (< 10%). Accessory herbs including *Pedicularis sudetica*, *Melandrium apetalum*, *Micranthes foliolosa*, and *Saxifraga hirculus* have variable occurrence and cover.
 
 [diagnostic_plot]
 
@@ -54,15 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** Dominance of brown mosses represents an early stage of peat formation with comparatively thin accumulations of organic material. Where regional increase in temperature results in permafrost degradation and improved drainage, sites may transition out of wetland conditions. Conversely, retarded drainage may transition sites to aquatic habitat or where flow is decreased, a more ombrotrophic wetland.
+
 ## Range
 
-**Range Description:** Common throughout the Arctic bioclimatic zone, but especially on the Arctic Coastal Plain.
+**Range Description:** Occurs throughout the Arctic bioclimatic zone, broadly associated with the Arctic Coastal Plain.
 
-**Rarity on Landscape:** Common
+**Rarity on Landscape:** Ubiquitous
 
 ## Environment
 
-**Environment Description:** This [level] is a type of minerotrophic wetland that forms on upper floodplain positions and drained lake basins. Soils are poorly-drained mineral soils capped with peat and mucky peat. Shallow and ice-rich permafrost retards the infiltration of surface water and promotes saturation. Minerotrophic wetlands receive water from ground or surface water that is rich in dissolved minerals. Physiography and water chemistry distinguish minerotrophic from ombrotrophic wetland types, leading to predictable differences in species composition, productivity, and soil properties. Dominance of brown mosses represents an early stage of peat formation with comparatively thin accumulations of organic material. Where a regional increase in temperature results in permafrost degradation and improved drainage, sites may transition out of a wetland condition. 
+**Environment Description:** Physiography and water chemistry distinguish minerotrophic from ombrotrophic wetlands, resulting in differences in species composition, productivity, and soil properties. Brown moss-Sedge peatlands are a type of mineotrophic wetland that receives moisture primarily from ground or surface water that is rich in dissolved minerals. Shallow and ice-rich permafrost retards the infiltration of surface water and promotes saturation, which in turn facilitates the accumulation of organic matter as peat. Hydric, circumneutral, and cold soils in combination with brown moss dominance creates moderate-nutrient and moderate-productivity conditions relative to ombrotrophic, *Sphagnum*-dominated systems. Soils are poorly-drained mineral soils capped with mucky peat. This [level] is often associated with inactive floodplains, drained lake beds, lake margins and polygonal tundra complexes.
 
 **Physiography**: [physiography_text]
 
@@ -94,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Timm W. Nawrocki, Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-05-14
+**Date:** 2026-06-23
 
 ## References
 

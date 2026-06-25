@@ -8,9 +8,9 @@
 
 **Code:** 321
 
-**Concept:** This [level] encompasses graminoid-dominated meadows developing on saturated mineral soils with shallow permafrost.
+**Concept:** This [level] encompasses sedge-dominated meadows developing on saturated mineral soils with shallow permafrost. The type is indicated by a diversity of hydrophytic sedges including *Carex aquatilis* and *Carex chordorrhiza* and brown mosses (i.e., non-*Sphagnum* mosses). Soils are circumneutral and cold causing moderate-nutrient and moderate-productivity conditions. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** NPRA2015_SSBWM66_S2, NPRA2015_SSBWM66_T1, NPRA2015_SSBWM66_air2
 
 ## Placement in AKNVC Hierarchy
 
@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] is dominated by wetland graminoids, forbs and mosses. The occurrence of dwarf shrubs is restricted to micro-topographic highs; lichens are absent.
+**Structural Description:** This [level] is dominated by hydrophytic sedges and brown mosses. The occurrence of dwarf shrubs is restricted to micro-topographic highs; lichens are absent.
 
 **Structural Class:** sedge meadow
 
@@ -54,13 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** This is a relatively stable type. Dominance of brown mosses represents an early stage of peat formation with comparatively thin accumulations of organic material. Where regional increase in temperature results in permafrost degradation and improved drainage, sites may transition out of wetland conditions. Conversely, retarded drainage may transition sites to aquatic habitat or where flow is decreased, a more ombrotrophic wetland.
+
 ## Range
+
+**Range Description:** Occurs throughout the Arctic bioclimatic zone, broadly associated with riverine systems on the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 
 ## Environment
 
-**Environment Description**: Wet meadows develop across low-lying terrain underlain by mineral soils and shallow, ice-rich permafrost. Permafrost retards the infiltration of surface waters and promotes saturation through the growing season. Mineral soils derive from aeolian sands or riverine and lacustrine silts; thus, this type is often associated with the Pleistocene sandsheet, formerly active floodplains, and drained lake basins. Small patches can develop in low-center polygons, wet depressions, and across patterned wetlands, such as ribbed fens. Soils tend to be circumneutral to alkaline, and may have a thin organic horizon overlying mucky, mineral soils. These meadows are predominately fed by groundwater and/or surface water rich in dissolved minerals, allowing sites to support a diverse assemblage of plants, due to high nutrient availability. This is a relatively stable type. 
+**Environment Description**: Wet meadows develop across low-lying terrain underlain by mineral soils and shallow, ice-rich permafrost. Permafrost retards the infiltration of surface waters and promotes saturation through the growing season. Mineral soils derive from aeolian sands or riverine and lacustrine silts; thus, this type is often associated with the Pleistocene sandsheet, formerly active floodplains, and drained lake basins. Small patches can develop in low-center polygons, wet depressions, and across patterned wetlands, such as ribbed fens. Soils tend to be circumneutral to alkaline, and may have a thin organic horizon overlying mucky, mineral soils. These meadows are predominately fed by groundwater and/or surface water rich in dissolved minerals, allowing sites to support a diverse assemblage of plants. 
 
 **Physiography:** [physiography_text]
 
@@ -84,15 +90,15 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: *Enter the version of the map that this description is current with.*
+**Map Version**: 3.0
 
 **Described By:** Lindsey A. Flagstad, Rhiannon C. Glover
 
 **Date:** 2026-05-14
 
-**Last Revised by:** *Enter the name (First Middle Initial Last) of the latest revision author(s).*
+**Last Revised by:** Lindsey A. Flagstad
 
-**Date:** *Enter the date (yyyy-mm-dd) of the revision.*
+**Date:** 2026-06-23
 
 ## References
 

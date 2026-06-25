@@ -8,27 +8,27 @@
 
 **Code:** 254
 
-**Concept:** This [level] encompasses polygonal tundra underlain by near-surface permafrost, dominated or co-dominated by combinations of tussock-forming sedges and dwarf- to low-shrubs.
+**Concept:** This [level] encompasses polygonal tundra complexes underlain by near-surface and ice-rich permafrost that are dominated or co-dominated by combinations of the tussock-forming sedge *Eriophorum vaginatum* and dwarf shrubs such as *Betula nana, Salix pulchra*, *Rhododendron tomentosum*, *Vaccinium vitis-idaea, Cassiope tetragona, Dryas integrifolia*, and *Salix reticulata*. Ice wedge troughs support hydrophytic sedges including *Carex aquatilis* and *Eriophorum angustifolium* and mosses. Soils are cold, wet, and organic-rich leading to often pronounced development of polygons where centers are flat to raised and troughs are deep with standing water. The type is common on the Arctic Coastal Plain where it is associated with drained lake basins.
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** NPRA2015_CPBWM63_Air2.jpg, CPHCP53_aer3.jpg, NPRA2015_CPHCP66_T1.jpg
 
 ## Placement in AKNVC Hierarchy
 
-**Macrogroup Code:** complex
+**Macrogroup Code:** M173, M001ak, M002ak
 
-**Macrogroup:** complex
+**Macrogroup:** Arctic Dry-Moist Tundra, Arctic Permafrost Bog and Acidic Fen, Arctic Permafrost Alkaline Fen
 
-**Group Code:** complex
+**Group Code:** G1198, G0001ak, G0002ak
 
-**Group:** complex
+**Group:** Arctic Tussock Tundra, Arctic Permafrost Peatland, Ombrotrophic, Arctic Permafrost Peatland, Mineotrophic
 
 ## Vegetation
 
 ### Structure
 
-**Structural Description:** This [level] is dominated by tussock-forming sedges, low shrubs, and dwarf shrubs. Bryophytes and lichens are common and abundant. 
+**Structural Description:** The [unit_name] is dominated by tussock-forming sedges, low shrubs, and dwarf and/or prostrate shrubs on polygon centers and rims. Bryophytes and lichens are common and abundant. The occurrence of hydrophytic sedges and mosses is restricted to the margins of and depressed centers of polygons.
 
-**Structural Class:** sedge meadow, dwarf shrub, low shrub
+**Structural Class:** tussock meadow, dwarf shrub, low shrub, sedge emergent
 
 Table 1. Mean and range for structural characteristics for [unit_name].
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is indicated by tussock-forming sedges, the primary of which are *Eriophorum vaginatum* and *Carex biglowii*. Hydrophytic sedges and mosses (i.e., *Sphagnum* species, *Drepanocladus lycopodioides*, and *Calliergon* species) often occupy the moist-to-wet troughs of high-centered polygons and the surfaces of low-centered polygons. Combinations of *Betula nana*, *Salix reticulata*, *Dryas integrifolia*, *Rhododendron tomentosum*, *Rubus chamaemorus*, *Aulacomnium* species, and *Cladonia* species are characteristic of the mesic surfaces of high-centered polygons and rims of low-centered polygons.
+**Floristics Description:** This [level] is indicated by the tussock-forming sedge *Eriophorum vaginatum* in complex with dwarf and/or prostrate shrubs and hydrophytic sedges and mosses. Characteristic shrubs include *Betula nana, Salix pulchra*, and *Rhododendron tomentosum* ssp*. decumbens* in the dwarf shrub layer, and *Vaccinium vitis-idaea, Cassiope tetragona, Dryas integrifolia*, and *Salix reticulata* in the prostrate shrub layers. Characteristic non-vascular species include the bryophytes *Ptilidium ciliare, Dicranum elongatum, Hylocomium splendens*, and *Aulacomnium* species, and the lichens, *Cetraria ericetorum, Cladonia arbuscula,* and *Flavocetraria cucullata.* Polygon margins and depressed centers support hydrophytic sedges such as *Carex aquatilis* and *Eriophorum angustifolium* and species of wetland bryophytes from the *Sphagnum*, *Drepanocladus*, *Scorpidium*, and *Calliergon* genera. Accessory forbs may include *Rubus chamaemorus, Saxifraga hirculus,* *Bistorta vivipara, and Bistorta plumosa*. 
 
 [diagnostic_plot]
 
@@ -54,13 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** Polygonal complexes develop across relatively flat terrain underlain by shallow and ice-rich permafrost where seasonal thawing and refreezing of surface soils, also known as the active layer, causes coincident cycles of expansion and contraction. Repetition of these cycles over decades forms a network of cracks separating intact, often polygonal portions of tundra. As meltwater repeatedly migrates to the cracks and refreezes, a network of ice wedges forms. Continued ice wedge aggradation and the associated displacement of overlying soil can raise the elevation of polygon rims relative to their centers, forming low-center polygons. Tussocks, which allow plants to elevate their live root mass above conditions of continual saturation, can form in response to waterlogging in the low centers of polygons. The transition to high-center polygons occurs through a combination of organic matter accumulation in the center, and thermal erosion of ice wedges and collapse of polygon rims at the margins. Any disturbance that changes the hydrothermal regime of these systems threatens their existence. Where climate change results in deeper seasonal thaw, interstitial and massive soil ice may degrade, causing thermokarst and cryoturbation. Inundation resulting from thaw thus provides a positive feedback to the further degradation of permafrost.
+
 ## Range
+
+**Range Description:** Occurring across the Arctic bioclimatic zone, especially across low-lying terrain of the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 
 ## Environment
 
-**Environment Description:** This [level] forms over ice-rich permafrost that undergoes seasonal freeze-thaw cycles, causing the ground to contract and expand. As the ground contracts, cracks form and fill with water, which subsequently freezes to create ice wedges beneath polygon margins. When ice wedges melt or their edges erode, the polygon center becomes elevated and relatively dry compared to the surrounding troughs, resulting in high-centered polygons. Alternatively, continued ice wedge growth can heave overlying soil upward, forming raised rims. The center remains low and may fill with water, creating low-centered polygons (Britton 1967). In both cases, plant community composition is strongly influenced by microsite conditions and habitat preference. Soils of this type often have a thick organic horizon, are poorly drained, and range from acidic to circumneutral.
+**Environment Description:** This [unit_name] is commonly associated with drained lake basins and stream margins where saturated soils promote the development of high-center polygons and deep ice wedge troughs. Shallow permafrost retards the infiltration of surface water and promotes saturation at depth. A tussock growth form allows graminoids to elevate their live root mass above the level of continual saturation. Soils tend to be circumneutral, cold, and poorly drained. Silty mineral soils are often overlain by a thick organic horizon. Ice-rich permafrost is always present at these sites and thermokarst, cryoturbation, and solifluction are the most common site-level disturbances. At the landscape scale, this type may form stable communities over broad areas.
 
 **Physiography:** [physiography_text]
 
@@ -84,15 +90,15 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: *Enter the version of the map that this description is current with.*
+**Map Version**: 3.0
 
 **Described By:** Rhiannon C. Glover
 
 **Date:** 2026-05-15
 
-**Last Revised by:** *Enter the name (First Middle Initial Last) of the latest revision author(s).*
+**Last Revised by:** Lindsey A. Flagstad
 
-**Date:** *Enter the date (yyyy-mm-dd) of the revision.*
+**Date:** 2026-06-19
 
 ## References
 

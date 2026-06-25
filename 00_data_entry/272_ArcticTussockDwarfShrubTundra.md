@@ -8,9 +8,9 @@
 
 **Code:** 272
 
-**Concept:** This [level] encompasses arctic tundra, underlain by near-surface permafrost and dominated by combinations of tussock-forming sedges and dwarf shrubs.
+**Concept:** This [level] encompasses arctic tundra, underlain by near-surface permafrost and dominated by combinations of the tussock-forming sedge *Eriophorum vaginatum* and dwarf to prostrate shrubs. Characteristic shrubs include *Betula nana*, *Rhododendron tomentosum* ssp. *decumbens*, *Vaccinium vitis-idaea*, *Cassiope tetragona*, and *Dryas integrifolia*. Bryophytes and lichens are common and abundant. Soils tend to be circumneutral, cold, and moderately drained with active periglacial processes. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** NPRA2015_FMTT61_T1.jpg, NPRA2015_FMTT61_Veg1.jpg, NPRA2015_FMTT66_Veg3.jpg
 
 ## Placement in AKNVC Hierarchy
 
@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] is co-dominated by tussock-forming sedges and dwarf or prostrate shrubs. Bryophytes and lichens are common and abundant. Tussocks are the primary structural feature of this type. 
+**Structural Description:** This [level] is co-dominated by tussock-forming sedges and dwarf to prostrate shrubs. Tussocks are the primary structural feature of this type. 
 
 **Structural Class:** tussock meadow, dwarf shrub
 
@@ -54,15 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** Ice-rich permafrost is always present at these sites and thermokarst, cryoturbation, and solifluction are the most common site-level disturbances. At the landscape scale, this type forms stable communities over broad areas.
+
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring across the Arctic bioclimatic zone, associated with low-lying terrain of the Arctic Coastal Plain and gentle slopes of the Brooks Range Foothills.
 
 **Rarity on Landscape:** Ubiquitous
 
 ## Environment
 
-**Environment Description**: Tussock Dwarf Shrub Tundra is commonly associated with high-center, low-relief ice-wedge polygons but is also found on nonpatterned ground. Shallow permafrost retards the infiltration of surface water and promotes saturation at depth. A tussock growth form allows graminoids to elevate their live root mass above the level of continual saturation.  Soils tend to be circumneutral, cold and poorly drained, silty mineral soils overlain by a thick organic horizon. Ice-rich permafrost is always present at these sites and thermokarst, cryoturbation, and solifluction are the most common site-level disturbances. At the landscape scale, this type forms stable communities over broad areas.
+**Environment Description**: The [unit_name] is commonly associated with high-center, low-relief, ice-wedge polygons but also develops across nonpatterned ground. Shallow permafrost retards the infiltration of surface water and promotes saturation at depth. A tussock growth form allows graminoids to elevate their live root mass above the level of continual saturation.  Soils tend to be circumneutral, cold, and moderately drained; silty mineral material is typically overlain by a thick organic horizon. 
 
 **Physiography**: [physiography_text]
 
@@ -86,7 +90,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: *Enter the version of the map that this description is current with.*
+**Map Version**: 3.0
 
 **Described By:** Lindsey A. Flagstad, Keith Boggs
 
@@ -94,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-05-14
+**Date:** 2026-06-24
 
 ## References
 

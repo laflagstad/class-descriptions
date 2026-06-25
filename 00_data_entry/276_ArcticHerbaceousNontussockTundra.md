@@ -8,9 +8,9 @@
 
 **Code:** 276
 
-**Concept:** This [level] encompasses arctic tundra, dominated by herbaceous species with limited participation of dwarf shrubs and nonvascular species. The type extends from latitudinal treeline north across the coastal plain. 
+**Concept:** This [level] encompasses arctic tundra, dominated by herbaceous species with limited participation of dwarf shrubs and nonvascular species. As the type develops in a variety of settings, its floristics are variable. The type extends from latitudinal treeline north across the Artic Coastal Plain and is considered stable at the landscape scale. 
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** TMCW55_t3b.jpg, TMCW58_s10.jpg, NPRA2015_TMCW68_T3.jpg
 
 ## Placement in AKNVC Hierarchy
 
@@ -54,15 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** Comparatively good drainage, in combination with exposure to wind limits the establishment of tussock forming sedges and dwarf shrubs. This is a relatively stable type. 
+
 ## Range
 
-**Range Description:** Uncommon and restricted to subzone C of the Arctic bioclimatic zone. 
+**Range Description:** Occurring across the Arctic bioclimatic zone, largely restricted to mineral soils on the Arctic Coastal Plain and wind-exposed sites in the Brooks Range.
 
 **Rarity on Landscape:** Uncommon
 
 ## Environment
 
-**Environment Description:** This [level] occurs on lowland, upland and alpine physiography. Across the coastal plain, it is often associated with loess (wind-blown silt) and aeolian sands. Soils are alkaline, moderately drained, very fine sand to silty mineral soils overlain by organics. Surface organic layers typically range from thin in alpine areas and uplands to moderately thick in lowlands. While a permafrost regime is present, drainage within the active layer often precludes the formation of an ice-rich aquitard. Comparatively good drainage, in combination with exposure to wind limits the establishment of tussock forming sedges. This is a relatively stable type. 
+**Environment Description:** This [level] occurs on lowland, upland and alpine terrain. Across the Arctic Coastal Plain, it is often associated with loess (wind-blown silt) and aeolian sands. At higher elevations in the Brooks Range, the type develops on wind-exposed sites with skeletal, rocky substrates. Soils are alkaline, moderately drained, very fine sand to silty mineral soils overlain by organics. Surface organic layers typically range from thin in alpine areas and uplands to moderately thick in lowlands. While a permafrost regime is present, drainage within the active layer often precludes the formation of an ice-rich aquitard. 
 
 **Physiography:** [physiography_text]
 
@@ -86,7 +90,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: 2.0
+**Map Version**: 3.0
 
 **Described By:** Keith Boggs, Mark Hall
 
@@ -94,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-04-24
+**Date:** 2026-06-24
 
 ## References
 

@@ -8,9 +8,9 @@
 
 **Code:** 322
 
-**Concept:** This [level] encompasses stands of emergent vegetation developing within standing and slow-moving waters underlain by permafrost.
+**Concept:** This [level] encompasses stands of emergent vegetation developing in standing and slow-moving waters underlain by permafrost. The type is indicated by the hydrophytic grass *Arctophila fulva* in combination with emergent forbs and aquatic mosses. Soils are mucks and fine silts and water is nutrient rich. As vegetation establishes in accordance with water depth, systems are sensitive to change in water level.
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** arcticmc_039_SelawikLake.jpg, SSBWM53_t1c.jpg
 
 ## Placement in AKNVC Hierarchy
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** Plant community composition in Arctic freshwater marshes follows a gradient of water depth and persistence. Deep and permanently flooded standing water often supports monocultures of *Arctophila fulva* with dominance transitioning to *Carex chordorrhiza*, *Carex aquatilis*, *Carex rariflora* and *Eriophorum angustifolium* as the water shallows. Emergent forbs such as *Comarum palustre*, *Hippuris vulgaris*, *Menyanthes trifoliata*, and *Equisetum fluviatile* are commonly associated species. Characteristic aquatic mosses include *Scorpidium scorpioides*, *Scorpidium revolvens*, *Sarmentypnum sarmentosum*, and *Drepanocladus* species.
+**Floristics Description:** Plant community composition in freshwater marshes follows a gradient of water depth and persistence. In the Arctic, deep and permanently flooded standing water often supports monocultures of *Arctophila fulva* with dominance transitioning to *Carex chordorrhiza*, *Carex aquatilis*, *Carex rariflora,* and *Eriophorum angustifolium* as the water shallows. Emergent forbs such as *Comarum palustre*, *Hippuris vulgaris*, *Menyanthes trifoliata*, and *Equisetum fluviatile* are commonly associated. Characteristic aquatic mosses include *Scorpidium scorpioides*, *Scorpidium revolvens*, *Sarmentypnum sarmentosum*, and *Drepanocladus* species.
 
 [diagnostic_plot]
 
@@ -54,13 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** As vegetation establishes in accordance with water depth, change in water level may cause a redistribution of component species. In oxbow lakes and overflow channels systems, low energy flooding may transport and deposit silt but generally does not scour or remove wetland vegetation. 
+
 ## Range
 
-**Rarity on Landscape:** Common
+**Range Description:** Occurs throughout the Arctic bioclimatic zone, associated with lakes on the Arctic Coastal Plain.
+
+**Rarity on Landscape:** Uncommon
 
 ## Environment
 
-**Environment Description:** Freshwater marshes typically develop along the margins of ponds, lakes, and floodplain overflow channels, as well as in the flooded centers of low-centered polygons and partially-drained lake basins. Soils are mucks and fine silts with nutrient rich water. Shallow, ice-rich permafrost retards the infiltration of surface waters and allows water to pool at or above the surface for most of the growing season. Due to high rates of decomposition, these are productive systems. As vegetation establishes in accordance with water depth, change in water level may cause a redistribution of component species. In oxbow lakes and overflow channels systems, low energy flooding may transport and deposit silt but generally does not scour or remove wetland vegetation.
+**Environment Description:** Freshwater marshes typically develop along the margins of ponds, lakes, and floodplain overflow channels, as well as in the flooded centers of low-centered polygons and partially-drained lake basins. Soils are mucks and fine silts and water is nutrient rich. Shallow, ice-rich permafrost retards the infiltration of surface waters and allows water to pool at or above the surface for most of the growing season. Due to high rates of decomposition, these are relatively productive systems. 
 
 **Physiography:** [physiography_text]
 
@@ -84,7 +90,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: 2.0
+**Map Version**: 3.0
 
 **Described By:** Keith Boggs, Mark Hall
 
@@ -92,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-05-14
+**Date:** 2026-06-23
 
 ## References
 

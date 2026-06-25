@@ -8,9 +8,9 @@
 
 **Code:** 262
 
-**Concept:** This [level] encompasses ombrotrophic peatlands underlain by near-surface permafrost in organic-rich soils dominated or co-dominated by combinations of hydrophytic sedges and *Sphagnum* mosses.
+**Concept:** This [level] encompasses ombrotrophic peatlands underlain by near-surface and ice-rich permafrost that are dominated by combinations of hydrophytic sedges and mosses. Hydrophytic sedges such as *Carex aquatilis* and *Eriophorum angustifolium* and hydrophytic mosses in the *Sphagnum* genus are characteristic. Soils are saturated, acidic, and cold causing low-nutrient and low-productivity conditions. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** *Enter a comma separated list of three to five representative photos. Use the photo file path or server url.*
+**Photos:** NPRA_CPBWM-71_Soil2_20170725.jpg, NPRA_CPBWM-71_Soil1_20170725.jpg, NPRA_CPBWM-71_Overview07_20170725.jpg
 
 ## Placement in AKNVC Hierarchy
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is indicated by combinations of wetland sedges and *Sphagnum* mosses. Diagnostic species are best considered as sets rather than individual species. Dominant species are highly variable, but taxa within Cyperaceae (i.e., wetland sedges) such as *Carex aquatilis* and *Eriophorum angustifolium* have high constancy and frequently high cover. Common species of *Sphagnum* in ombrotrophic peatlands include, *Sphagnum angustifolium*, *Sphagnum magellanicum*, and *Sphagnum fuscum*. Dwarf, often ericaceous shrubs such as *Cassiope tetragona*, *Vaccinium vitis-idaea*, *Andromeda polifolia*, and *Oxycoccus microcarpus* may establish on microtopographic highs. Accessory forbs may include *Rubus chamaemorus*, *Saxifraga hirculus*, *Bistorta vivipara* and *Bistorta plumosa*. 
+**Floristics Description:** This [level] is indicated by combinations of hydrophytic sedges and *Sphagnum* mosses. Dominant species are highly variable, but hydrophytic taxa within Cyperaceae such as *Carex aquatilis* and *Eriophorum angustifolium* and mosses in the *Sphagnum* genus such as *Sphagnum angustifolium*, *Sphagnum magellanicum*, and *Sphagnum fuscum* have high constancy and frequently high cover. Dwarf, often ericaceous shrubs such as *Cassiope tetragona*, *Vaccinium vitis-idaea*, *Andromeda polifolia*, and *Oxycoccus microcarpus* may establish with foliose lichens on microtopographic highs. Accessory forbs may include *Rubus chamaemorus*, *Saxifraga hirculus*, *Bistorta vivipara* and *Bistorta plumosa*. 
 
 [diagnostic_plot]
 
@@ -54,13 +54,19 @@ Table 2. Constancy and cover table for individual taxa with constancy >= 25% and
 
 Figure 3. Plot of range from 25th percentile to 75th percentile and mean for individual taxa occurring in [unit_name]. Individual taxa are included if they have constancy >= 25% and mean cover >= 2% or constancy >= 50% and mean cover >= 1%.
 
+## Dynamics
+
+**Dynamics Description:** Dominance of *Sphagnum* represents a late stage of peat formation, often with thick accumulations of organic material. Barring change to the hydrothermal regime, this type is relatively stable. Where regional increase in temperature results in permafrost degradation and improved drainage, sites may transition out of wetland conditions. Conversely, retarded drainage may transition sites to aquatic habitat or where flow is increased, a more mineotrophic wetland.
+
 ## Range
+
+**Range Description:** Occurring across the Arctic bioclimatic zone, broadly associated with the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 
 ## Environment
 
-**Environment Description**: Sphagnum – Sedge peatlands are a type of ombrotrophic wetland that occurs in lowlands and receives moisture from rain or snowmelt. Soils are poorly-drained mineral soils capped with thick peat and mucky peat. Shallow and ice-rich permafrost retards the infiltration of surface water and promotes saturation. Physiography and water chemistry distinguish minerotrophic from ombrotrophic wetlands, resulting in differences in species composition, productivity, and soil properties. These wetlands are nutrient-poor, acidic, and often associated with polygonal tundra complexes, and undifferentiated mounds. Dominance of Sphagnum represents a late stage of peat formation, often with thick accumulations of organic material. Where regional increase in temperature results in permafrost degradation and improved drainage, sites may transition out of wetland conditions.
+**Environment Description**: Physiography and water chemistry distinguish minerotrophic from ombrotrophic wetlands, resulting in differences in species composition, productivity, and soil properties. Sphagnum-Sedge peatlands are a type of ombrotrophic wetland that occurs in lowlands and receives moisture primarily from rain or snowmelt. Shallow and ice-rich permafrost retards the infiltration of surface water and promotes saturation, which in turn facilitates the accumulation of organic matter as peat. Hydric and cold soils in combination with *Sphagnum* dominance creates low-nutrient and low-productivity conditions relative to brown moss-dominated, mineotrophic systems. Soils are poorly-drained mineral soils capped with thick fibric to mucky peat. This [level] is often associated with lake margins and polygonal tundra complexes.
 
 **Physiography:** [physiography_text]
 
@@ -84,15 +90,15 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 ## Metadata
 
-**Map Version**: *Enter the version of the map that this description is current with.*
+**Map Version**: *3.0*
 
-**Described By:** *Enter the name (First Middle Initial Last) of the original description author(s).*
+**Described By:** *Rhiannon C. Glover, Lindsey A. Flagstad*
 
-**Date:** *Enter the date (yyyy-mm-dd) of the original description.*
+**Date:** *2026-05-14
 
-**Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
+**Last Revised by:** Lindsey A. Flagstad
 
-**Date:** 2026-05-14
+**Date:** 2026-06-23
 
 ## References
 
