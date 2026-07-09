@@ -8,9 +8,9 @@
 
 **Code:** 302
 
-**Concept:** This [level] encompasses barren to sparsely vegetated, tidally-influenced mudflats and sandy beaches, and coastal cliffs and dunes exposed to salt spray.  
+**Concept:** This [level] encompasses barren to sparsely vegetated, tidally-influenced mudflats and sandy beaches, and coastal dunes exposed to salt spray.  Depending on the degree of tidal influence, vegetation may may include matted algae, halophytic grasses in the *Puccinellia* genus and succulent forbs or *Leymus mollis*, a dune grass that is tolerant of salt spray. Frequent disturbance by rafted ice, waves, and wind retard the establishment and growth of vegetation.
 
-**Photos:** arcticmc_016.jpg, arcticmc_023.jpg, arcticmc_013.jpg
+**Photos:** [arcticmc_016.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\302_CoastalEstuarineBarrens\arcticmc_016.jpg"), [arcticmc_023.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\302_CoastalEstuarineBarrens\arcticmc_023.jpg"), [arcticmc_013.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\302_CoastalEstuarineBarrens\arcticmc_013.jpg")
 
 ## Placement in AKNVC Hierarchy
 
@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] ranges from barren to supporting sparse growth of matted algae and low-stature halophytic plants. Woody and nonvascular species are absent.
+**Structural Description:** This [level] ranges from barren substrates to those supporting a sparse growth of matted algae and low-stature halophytic plants. Woody and nonvascular species are absent.
 
 **Structural Class:** barrens or partially vegetated
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] supports highly discontinuous and isolated patches of the stoloniferous grass *Puccinellia phryganodes* (common) or *Puccinellia andersonii* (uncommon) and/or succulent forbs such as *Stellaria humifusa* and *Cochlearia groenlandica*. Coastal dunes may support stands of the rhizomatous grass, *Leymus mollis*.
+**Floristics Description:** Where vegetated, estuarine barrens support highly discontinuous and isolated patches of matted algae, the stoloniferous grass *Puccinellia phryganodes* (common), *Puccinellia andersonii* (uncommon), and/or succulent forbs such as *Stellaria humifusa* and *Cochlearia groenlandica.* Coastal dunes may support isolated stands of the rhizomatous grass *Leymus mollis*. 
 
 [diagnostic_plot]
 
@@ -56,20 +56,17 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
-
-*__Example text:__*
-*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
+**Dynamics Description:** Sites in the intertidal zone experience regular inundation by saline water; sites located in the supratidal zone are subject to salt spray and storm surge. Wind, water, and ice are the driving forces of coastal disturbance. Seasonally high tides coupled with storm events can build surges of marine water that reach above normal elevations and beyond inland extents of mean tides. Such high-energy events can result in the rapid erosion and redeposition of coastal sediment, which may truncate the seaward expansion of barrens. To a lesser, more localized extent, rafted ice may scour coastlines and push sediment.
 
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring along coastlines throughout the Arctic bioclimatic zone.
 
 **Rarity on Landscape:** Common
 
 ## Environment
 
-**Environment Description**: Coastal and estuarine barrens develop on tidally-influenced mudflats and sandy beaches, and coastal cliffs and dunes exposed to salt spray. Soils range from poorly-drained, very fine sands and silty clays on tidally-influenced substrates, to fine to coarse sands on coastal beaches and dunes, to cobble and bedrock on coastal cliffs. On tidal substrates, permafrost tends to be deep due to the proximity of the ocean and the heat-retaining capacity of large bodies of water. A permafrost thermal regime may exist for beaches, dunes, and cliffs, but ice-rich permafrost does not develop due to the drainage imparted by sand and cobble. Frequent disturbance by waves and/or wind retards the establishment and growth of vegetation. While matted algae may be present on mudflats, macroalgae (seaweed) presumably does not establish due to a lack of rocky substrate and slit-laded nearshore waters, which limit the penetration of light.
+**Environment Description**: Coastal and estuarine barrens develop on coastal mudflats, beaches, and dunes. Soils range from poorly-drained, very fine sands and silty clays on tidally-influenced substrates, to fine to coarse sands on coastal beaches and dunes. On tidal substrates, permafrost tends to be deep due to the proximity of the ocean and the heat-retaining capacity of large bodies of water. A permafrost thermal regime may exist for beaches and dunes, but ice-rich permafrost does not develop due to the drainage imparted by sands. While matted algae may be present on mudflats, macroalgae (seaweed) presumably does not establish due to a lack of rocky substrate and slit-laded nearshore waters, which limit the penetration of light.
 
 **Physiography:** [physiography_text]
 

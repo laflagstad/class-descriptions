@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses areas of coastal tundra that are exposed to salt-spray and area dominated or co-dominated by the prostrate shrub *Salix ovalifolia* and salt-tolerant graminoids.
 
-**Photos:** TMCW24_s4.jpg, TMCW24_t3d.jpg
+**Photos:** [TMCD3_veg3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\305_CoastalDwShrubWillowGram\TMCD3_veg3.JPG"), [TMCD3_veg6.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\305_CoastalDwShrubWillowGram\TMCD3_veg6.JPG"), [TMCW5B_t2c.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\305_CoastalDwShrubWillowGram\TMCW5B_t2c.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -63,7 +63,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring in coastal settings across the Arctic bioclimate zone.
 
 **Rarity on Landscape:** Uncommon
 

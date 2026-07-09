@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses barren to sparsely vegetated areas that are too unstable or exposed to support continuous vegetation. Coastal substrates are not included.
 
-**Photos:** AB5_veg1.jpg, AB5_veg2.jpg, AB1B_veg_1.jpg
+**Photos:** [AB5_veg1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\330_BarrenSparselyVegetated\AB5_veg1.JPG"), [AB5_veg2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\330_BarrenSparselyVegetated\AB5_veg2.JPG"), [AB1B_veg_1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\330_BarrenSparselyVegetated\AB1B_veg_1.jpg")
 
 ## Placement in AKNVC Hierarchy
 
@@ -63,9 +63,9 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring throughout the Arctic bioclimatic zone, broadly associated with high elevation sites in the Brooks Range.
 
-**Rarity on Landscape:** Common
+**Rarity on Landscape:** Uncommon
 
 ## Environment
 

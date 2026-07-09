@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses ombrotrophic peatlands underlain by near-surface and ice-rich permafrost that are dominated by combinations of hydrophytic sedges and mosses. Hydrophytic sedges such as *Carex aquatilis* and *Eriophorum angustifolium* and hydrophytic mosses in the *Sphagnum* genus are characteristic. Soils are saturated, acidic, and cold causing low-nutrient and low-productivity conditions. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** NPRA_CPBWM-71_Soil2_20170725.jpg, NPRA_CPBWM-71_Soil1_20170725.jpg, NPRA_CPBWM-71_Overview07_20170725.jpg
+**Photos:** [NPRA_CPBWM-71_Soil2_20170725.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\262_SphagnumSedgePeatlandOmbro\NPRA_CPBWM-71_Soil2_20170725.JPG"), [NPRA_CPBWM-71_Soil1_20170725.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\262_SphagnumSedgePeatlandOmbro\NPRA_CPBWM-71_Soil1_20170725.JPG"), [NPRA_CPBWM-71_Overview07_20170725.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\262_SphagnumSedgePeatlandOmbro\NPRA_CPBWM-71_Overview07_20170725.JPG")
 
 ## Placement in AKNVC Hierarchy
 

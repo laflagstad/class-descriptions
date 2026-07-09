@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses sedge-dominated meadows developing on saturated mineral soils with shallow permafrost. The type is indicated by a diversity of hydrophytic sedges including *Carex aquatilis* and *Carex chordorrhiza* and brown mosses (i.e., non-*Sphagnum* mosses). Soils are circumneutral and cold causing moderate-nutrient and moderate-productivity conditions. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** NPRA2015_SSBWM66_S2, NPRA2015_SSBWM66_T1, NPRA2015_SSBWM66_air2
+**Photos:** [NPRA2015_SSBWM66_S2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\321_WetMeadowRiverine\NPRA2015_SSBWM66_S2.JPG"), [NPRA2015_SSBWM66_T1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\321_WetMeadowRiverine\NPRA2015_SSBWM66_T1.JPG"), [NPRA2015_SSBWM66_air2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\321_WetMeadowRiverine\NPRA2015_SSBWM66_air2.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -60,7 +60,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Occurs throughout the Arctic bioclimatic zone, broadly associated with riverine systems on the Arctic Coastal Plain.
+**Range Description:** Occurring throughout the Arctic bioclimatic zone, broadly associated with riverine systems on the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 

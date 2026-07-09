@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses mesic to moist, dwarf- to low shrublands where *Betula nana* dominates or co-dominates with willows.
 
-**Photos:** NPRA2015_FLST66_T2.jpg, FLST34_t2a.jpg, NPRA_FLST-75_Soil1_20170722.jpg
+**Photos:** [NPRA2015_FLST66_T2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\292_BirchShrubMesic\NPRA2015_FLST66_T2.JPG"), [FLST34_t2a.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\292_BirchShrubMesic\FLST34_t2a.JPG"), [NPRA_FLST-75_Soil1_20170722.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\292_BirchShrubMesic\NPRA_FLST-75_Soil1_20170722.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -63,7 +63,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Common throughout subzone E of the Arctic bioclimatic zone on sideslopes and ridges in the Brooks Range foothills and on the Arctic Coastal Plain.
+**Range Description:** Common across the Arctic bioclimatic zone, especially in the Brooks Range Foothills and on the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 

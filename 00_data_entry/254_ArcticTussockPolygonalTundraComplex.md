@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses polygonal tundra complexes underlain by near-surface and ice-rich permafrost that are dominated or co-dominated by combinations of the tussock-forming sedge *Eriophorum vaginatum* and dwarf shrubs such as *Betula nana, Salix pulchra*, *Rhododendron tomentosum*, *Vaccinium vitis-idaea, Cassiope tetragona, Dryas integrifolia*, and *Salix reticulata*. Ice wedge troughs support hydrophytic sedges including *Carex aquatilis* and *Eriophorum angustifolium* and mosses. Soils are cold, wet, and organic-rich leading to often pronounced development of polygons where centers are flat to raised and troughs are deep with standing water. The type is common on the Arctic Coastal Plain where it is associated with drained lake basins.
 
-**Photos:** NPRA2015_CPBWM63_Air2.jpg, CPHCP53_aer3.jpg, NPRA2015_CPHCP66_T1.jpg
+**Photos:** [NPRA2015_CPBWM63_Air2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\254_TussockPolygonalComplex\NPRA2015_CPBWM63_Air2.JPG"), [CPHCP53_aer3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\254_TussockPolygonalComplex\CPHCP53_aer3.JPG"), [NPRA2015_CPHCP66_T1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\254_TussockPolygonalComplex\NPRA2015_CPHCP66_T1.JPG")
 
 ## Placement in AKNVC Hierarchy
 

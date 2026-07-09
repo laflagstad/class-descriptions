@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses arctic tundra, dominated by herbaceous species with limited participation of dwarf shrubs and nonvascular species. As the type develops in a variety of settings, its floristics are variable. The type extends from latitudinal treeline north across the Artic Coastal Plain and is considered stable at the landscape scale. 
 
-**Photos:** TMCW55_t3b.jpg, TMCW58_s10.jpg, NPRA2015_TMCW68_T3.jpg
+**Photos:** [TMCW55_t3b.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\276_HerbNonTussockTundra\TMCW55_t3b.JPG"), [TMCW58_s10.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\276_HerbNonTussockTundra\TMCW58_s10.JPG"), [NPRA2015_TMCW68_T3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\276_HerbNonTussockTundra\NPRA2015_TMCW68_T3.JPG")
 
 ## Placement in AKNVC Hierarchy
 

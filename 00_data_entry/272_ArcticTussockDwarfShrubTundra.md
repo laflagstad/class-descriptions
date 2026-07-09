@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses arctic tundra, underlain by near-surface permafrost and dominated by combinations of the tussock-forming sedge *Eriophorum vaginatum* and dwarf to prostrate shrubs. Characteristic shrubs include *Betula nana*, *Rhododendron tomentosum* ssp. *decumbens*, *Vaccinium vitis-idaea*, *Cassiope tetragona*, and *Dryas integrifolia*. Bryophytes and lichens are common and abundant. Soils tend to be circumneutral, cold, and moderately drained with active periglacial processes. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** NPRA2015_FMTT61_T1.jpg, NPRA2015_FMTT61_Veg1.jpg, NPRA2015_FMTT66_Veg3.jpg
+**Photos:** [NPRA2015_FMTT61_T1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\272_TussockDwShrubTundra\NPRA2015_FMTT61_T1.JPG"), [NPRA2015_FMTT61_Veg1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\272_TussockDwShrubTundra\NPRA2015_FMTT61_Veg1.JPG"), [NPRA2015_FMTT66_Veg3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\272_TussockDwShrubTundra\NPRA2015_FMTT66_Veg3.JPG")
 
 ## Placement in AKNVC Hierarchy
 

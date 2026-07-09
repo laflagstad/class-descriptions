@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses polygonal tundra complexes underlain by near-surface and relatively ice-rich permafrost that are dominated or co-dominated by combinations of the mesic sedges *Carex bigelowii* and *Carex scirpoidea* and the prostrate shrub *Dryas integrifolia*. Dwarf *Salix* shrubs, bryophytes, and lichens are common and abundant. Soils are sandy and moderately well drained, leading to a comparatively muted development of polygons where centers are flat to raised and troughs are shallow without standing water. Tussocks are not present. The type is common on the Arctic Coastal Plain where it is associated with loess deposited from large river systems. 
 
-**Photos:** NPRA2015_TMCW68_T3.jpg, NPRA2015_TMCW68_Air3.jpg, NPRA2015_TMCW68_T2.jpg
+**Photos:** [NPRA2015_TMCW68_T3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\252_NonTussockPolygonalComplex\NPRA2015_TMCW68_T3.JPG"), [NPRA2015_TMCW68_Air3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\252_NonTussockPolygonalComplex\NPRA2015_TMCW68_Air3.JPG"), [NPRA2015_TMCW68_T2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\252_NonTussockPolygonalComplex\NPRA2015_TMCW68_T2.JPG")
 
 ## Placement in AKNVC Hierarchy
 

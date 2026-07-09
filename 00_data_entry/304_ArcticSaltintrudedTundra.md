@@ -8,9 +8,9 @@
 
 **Code:** 304
 
-**Concept:** This [level] encompasses low-lying coastal areas where inundation by saltwater causes mortality of non-halophytic (salt-intolerant) species and allows colonization by halophytic (salt-tolerant) plant species. 
+**Concept:** This [level] encompasses low-lying coastal areas where inundation by saltwater causes mortality of non-halophytic (salt-intolerant) species and allows colonization by halophytic (salt-tolerant) plant species. Following intrusion, the species composition and rate of recovery largely depends on the frequency and duration of inundation, salinity of water, and flow of fresh water through the site.
 
-**Photos:** arcticmc_019.jpg, arcticmc_017.jpg
+**Photos:** [ns12_bs_005799.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\304_SaltKilledTundra\ns12_bs_005799.jpg"), [shorezone_skt.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\304_SaltKilledTundra\shorezone_skt.jpg"), [shorezone_skt2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\304_SaltKilledTundra\shorezone_skt2.jpg")
 
 ## Placement in AKNVC Hierarchy
 
@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] may range from mortality of woody and non-vascular species in otherwise intact tundra, to complete mortality of the pre-existing vegetation type with colonization by salt-tolerant, rhizomatous or stoloniferous grasses.
+**Structural Description:** The structure of vegetation is highly variable, relating to both the type of vegetation that was inundated by salt water and the severity of salt-water intrusion. Structural composition of this type may range from mortality of woody and non-vascular species in otherwise intact tundra, to complete mortality of the pre-existing vegetation type with colonization by salt-tolerant, rhizomatous or stoloniferous grasses.
 
 **Structural Class:** salt-killed meadow; barrens or partially vegetated
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** Depending on degree of intrusion, tundra may not support any living vegetation, may support a mix of halophytic and non-halophytic plants, or may be colonized by salt-tolerant grasses. Common colonizing grasses include *Leymus mollis*, *Festuca rubra*, *Puccinellia* species, and *Calamagrostis deschampsioides*. Plants and non-vascular species that survive inundation will be relict of the pre-existing community.
+**Floristics Description:** Depending on the severity of inundation, tundra may not support any living vegetation, may support a mix of halophytic and non-halophytic plants, or may be colonized by salt-tolerant grasses. Common colonizing grasses include *Leymus mollis*, *Festuca rubra*, *Puccinellia* species, and *Calamagrostis deschampsioides*. Plants and non-vascular species that survive inundation will be relict of the pre-existing community.
 
 [diagnostic_plot]
 
@@ -56,20 +56,17 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
-
-*__Example text:__*
-*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
+**Dynamics Description:** The intrusion of marine waters to low-lying coastal tundra can result from storm surge or thermokarst. Seasonally high tides coupled with storm events can build surges of marine water that reach above normal elevations and beyond inland extents of mean tides into freshwater and tundra systems. Thermokarst and the subsequent subsidence of the ground surface have variable effect, ranging from the permanent flooding of a site by marine waters (typical of breached lake basins), or the transition to a tidally-influenced system (typical of ice-rich polygonal tundra). Regardless of mechanism of intrusion, plants with little to no salt tolerance become vulnerable to osmotic stress, which compromises water and nutrient uptake and may result in mortality. Depending on the frequency and duration of inundation, salinity of water, and flow of fresh water through the site, salt can either be quickly removed from the system or can remain in soil at high concentrations for long periods of time. Recovery from severe salt intrusion can be slow and spatially limited.
 
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring on low-lying coastlines throughout the Arctic bioclimatic zone.
 
 **Rarity on Landscape:** Uncommon
 
 ## Environment
 
-**Environment Description**: The intrusion of marine waters to low-lying coastal tundra can result from storm surge or thermokarst. Seasonally high tides coupled with storm events can create surges of marine water that reach above normal elevations and beyond inland extents of mean tides into freshwater and tundra systems. Thermokarst and the subsequent subsidence of the ground surface can have variable effects, ranging from the permanent flooding of a site by marine waters (typical of breached lake basins), or the transition to a tidally-influenced system (typical of ice-rich polygonal tundra). Regardless of mechanism of intrusion, plants with little to no salt tolerance become vulnerable to osmotic stress, which compromises water and nutrient uptake and may result in mortality. Depending on the frequency of intrusion, salinity of water, duration of inundation, and flow of fresh water through the site, salt can either be quickly removed from the system or remain in soil at high concentrations for long periods of time. Recovery from severe salt intrusion can be slow and spatially limited. 
+**Environment Description**: [unit_name] occurs along portions of the coast that are either naturally low-lying, such as large river deltas and gently sloping upper beaches or sites that have been rendered low lying by thermokarst or coastal erosion such as permafrost degraded polygonal tundra or drained lake basins. As marine waters can intrude a variety of settings, there is a corresponding range of associated soil types, textures, pH, and moisture and permafrost regimes.  
 
 **Physiography:** [physiography_text]
 

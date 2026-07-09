@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses mesic tundra dominated by dwarf to low ericaceous shrubs often mixed with dwarf willow and *Dryas* shrubs, as well as abundant lichens and mosses.
 
-**Photos:** NPRA2015_ADST63_T3.jpg, NPRA2015_ADST67_veg1, NPRA2015_ADST65_veg7
+**Photos:** [NPRA2015_ADST63_T3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\284_EricaceousDwShrub\NPRA2015_ADST63_T3.JPG"), [NPRA2015_ADST67_veg1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\284_EricaceousDwShrub\NPRA2015_ADST67_veg1.JPG"), [NPRA2015_ADST65_veg7.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\284_EricaceousDwShrub\NPRA2015_ADST65_veg7.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -63,7 +63,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring across the Arctic bioclimatic zone, broadly associated with the Brooks Range Foothills.
 
 **Rarity on Landscape:** Common
 

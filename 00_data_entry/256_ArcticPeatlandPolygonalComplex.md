@@ -8,7 +8,7 @@
 
 **Concept:** This [level] encompasses polygonal tundra complexes of minerotrophic or ombrotrophic peatlands that are dominated by hydrophytic sedges and mosses, often in combination with dwarf and prostrate shrubs. Wetland sedges, including *Carex aquatilis* and *Eriophorum angustifolium* and wet-site mosses including members of the *Sphagnum*, *Scorpidium*, *Calliergion*, and *Drepanocladus* genera occur in lower microsites such as polygon troughs and low centers, dwarf and prostrate shrubs including *Salix pulchra*, *Rhododendron tomentosum*, and *Vaccinium vitis-idaea* occur on higher microsites such as polygon ridges and high centers; tussocks are not present. The type develops across flat terrain underlain by near-surface and ice-rich permafrost. While not restricted to coastal physiologies, the complexes are common across the outer margin of the Arctic Coastal Plain. 
 
-**Photos:** NPRA2015_CPBWM69_Air.jpg, NPRA2015_CPBWM69_Soil2.jpg, NPRA2015_CPBWM69_Soil6.jpg
+**Photos:** [NPRA2015_CPBWM69_Air.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\256_PeatlandPolygonalComplex\NPRA2015_CPBWM69_Air.JPG"), [NPRA2015_CPBWM69_Soil2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\256_PeatlandPolygonalComplex\NPRA2015_CPBWM69_Soil2.JPG"), [NPRA2015_CPBWM69_Soil6.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\256_PeatlandPolygonalComplex\NPRA2015_CPBWM69_Soil6.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -58,7 +58,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Common across the Arctic bioclimatic zone, especially across the low-lying Arctic Coastal Plain.
+**Range Description:** Occurring across the Arctic bioclimatic zone, especially across the low-lying Arctic Coastal Plain.
 
 **Rarity on Landscape:** Common
 

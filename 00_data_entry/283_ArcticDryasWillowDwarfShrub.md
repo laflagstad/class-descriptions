@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses mesic tundra vegetation on exposed, windswept areas, dominated or co-dominated by *Dryas* species and dwarf willow shrubs.
 
-**Photos:** NPRA2015_ADST65_T1a.jpg, NPRA_ADST-72_T2_20170728.jpg, ADST21_veg2.jpg, NPRA_ADST-72_General01_20170728
+**Photos:** [NPRA2015_ADST65_T1a.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\283_DryasWillowDwShrub\NPRA2015_ADST65_T1a.JPG"), [NPRA_ADST-72_T2_20170728.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\283_DryasWillowDwShrub\NPRA_ADST-72_T2_20170728.JPG"), [ADST21_veg2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\283_DryasWillowDwShrub\ADST21_veg2.JPG"), [NPRA_ADST-72_General01_20170728]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\283_DryasWillowDwShrub\NPRA_ADST-72_General01_20170728.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -63,9 +63,9 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** *Enter up to one paragraph describing the general range. Use standard terms, prioritizing the AKVEG bioclimatic zones and vegetation regions (but using ecoregions or other geographic terms where more specificity is helpful). Do not attempt to provide a level of detail redundant with the vegetation map.*
+**Range Description:** Occurring on floodplains throughout the Arctic bioclimatic zone.
 
-**Rarity on Landscape:** Common
+**Rarity on Landscape:** Uncommon
 
 ## Environment
 

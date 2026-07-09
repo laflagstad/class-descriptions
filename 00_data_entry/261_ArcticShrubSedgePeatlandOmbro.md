@@ -10,7 +10,7 @@
 
 **Concept:** This [level] encompasses ombrotrophic peatlands underlain by near-surface and ice-rich permafrost that are dominated by combinations of dwarf- to low-shrubs and hydrophytic sedges and mosses. Low shrubs in the *Salix* genus, *Betula nana*, wetland sedges such as *Carex aquatilis* and *Eriophorum angustifolium* and hydrophytic mosses in the *Sphagnum* genus are characteristic. Soils are saturated, acidic, and cold causing low-nutrient and low-productivity conditions. This type is susceptible to change in hydrothermal regime.
 
-**Photos:** NPRA_FWMM-79_T2_20170728.jpg, FWMM50_s1.jpg, FWMM32_veg6.jpg
+**Photos:** [NPRA_FWMM-79_T2_20170728.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\261_ShrubSedgePeatlandOmbro\NPRA_FWMM-79_T2_20170728.JPG"), [FWMM50_s1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\261_ShrubSedgePeatlandOmbro\FWMM50_s1.JPG"), [FWMM32_veg6.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\261_ShrubSedgePeatlandOmbro\FWMM32_veg6.JPG")
 
 ## Placement in AKNVC Hierarchy
 

@@ -8,9 +8,9 @@
 
 **Code:** 322
 
-**Concept:** This [level] encompasses stands of emergent vegetation developing in standing and slow-moving waters underlain by permafrost. The type is indicated by the hydrophytic grass *Arctophila fulva* in combination with emergent forbs and aquatic mosses. Soils are mucks and fine silts and water is nutrient rich. As vegetation establishes in accordance with water depth, systems are sensitive to change in water level.
+**Concept:** This [level] encompasses stands of emergent vegetation developing in standing and slow-moving waters underlain by permafrost. The type is indicated by the hydrophytic grass *Arctophila fulva* in combination with emergent forbs and aquatic mosses. Soils are mucks and fine silts, and water is nutrient rich. As vegetation establishes in accordance with water depth, systems are sensitive to change in water level.
 
-**Photos:** arcticmc_039_SelawikLake.jpg, SSBWM53_t1c.jpg
+**Photos:** [arcticmc_039_SelawikLake.jpg](), [SSBWM53_t1c.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\322_FreshwaterMarsh\SSBWM53_t1c.JPG")
 
 ## Placement in AKNVC Hierarchy
 
@@ -60,7 +60,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Occurs throughout the Arctic bioclimatic zone, associated with lakes on the Arctic Coastal Plain.
+**Range Description:** Occurring throughout the Arctic bioclimatic zone, associated with lakes on the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Uncommon
 
