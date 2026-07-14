@@ -60,7 +60,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Occurring throughout the Arctic bioclimatic zone, associated with lakes on the Arctic Coastal Plain.
+**Range Description:** Occurring throughout the Arctic bioclimatic zone, broadly associated with lakes on the Arctic Coastal Plain.
 
 **Rarity on Landscape:** Uncommon
 

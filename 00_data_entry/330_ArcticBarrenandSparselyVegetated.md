@@ -8,7 +8,7 @@
 
 **Code:** 330
 
-**Concept:** This [level] encompasses barren to sparsely vegetated areas that are too unstable or exposed to support continuous vegetation. Coastal substrates are not included.
+**Concept:** This [level] encompasses barren to sparsely vegetated areas that are too unstable or exposed to support continuous vegetation. Crustose lichens, particularly those in the *Umbilicaria* genus, along with vascular plants with life forms adapted to extreme temperatures and high wind are characteristic. Coastal substrates are not included. 
 
 **Photos:** [AB5_veg1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\330_BarrenSparselyVegetated\AB5_veg1.JPG"), [AB5_veg2.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\330_BarrenSparselyVegetated\AB5_veg2.JPG"), [AB1B_veg_1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\330_BarrenSparselyVegetated\AB1B_veg_1.jpg")
 
@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] consists of a sparse distribution of prostrate shrubs, graminoids, rosette or cushion-forming forbs, and nonvascular species. Crustose lichens are a common component of exposed, rocky sites with the participation of dry-site mosses and fruticose lichens increasing with reduced exposure. Dwarf and larger-stature shrubs are absent. 
+**Structural Description:** This [level] consists of a sparse distribution of prostrate shrubs, cespitose graminoids, rosette or cushion-forming forbs, and nonvascular species. Crustose lichens are a common component of exposed, rocky sites with the participation of dry-site mosses and fruticose lichens increasing with reduced exposure. Dwarf and larger-stature shrubs are absent. 
 
 **Structural Class:** barrens or partially vegetated
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is characterized by a high cover of bare ground or exposed rock with variable combinations of vascular plants, lichens, and mosses establishing in protected microsites. This summary is oriented towards exposed high elevation sites where characteristic shrubs are *Kalmia procumbens*, *Arctos alpina*, *Salix phlebophylla*, and *Diapensia obovata*. Common forbs include *Silene acaulis* and *Minuartia arctica* with *Saxifraga oppositifolia*, *Physaria arctica*, and *Androsace chamaejasme* indicating calcareous bedrock. Graminoids such as *Carex scirpoidea*, *Carex microchaeta*, and *Heirochloë alpina* may be present with low cover. The crustose lichens *Umbilicaria* species, *Rhizocarpon geographicum*, *Ophiopharma lapponica*, and species in the *Pertusaria* genus are constant components of the type and may occur at high cover on exposed, rocky sites. The participation of fruticose lichens such as *Cladonia stellaris*, *Flavocetraria nivalis*, *Flavocetraria cucullata*, *Vulpicida juniperina*, and *Alectoria ochroleuca*, and the dry-site moss, *Racomitrium lanuginosum* increases with protection.
+**Floristics Description:** This [level] is indicated by a high cover of bare ground or exposed rock with variable combinations of vascular plants, lichens, and mosses establishing in protected microsites. This summary is oriented towards exposed high elevation sites where characteristic shrubs are *Kalmia procumbens*, *Arctos alpina*, *Salix phlebophylla*, and *Diapensia obovata*. Common forbs include *Silene acaulis* and *Minuartia arctica* with *Saxifraga oppositifolia*, *Physaria arctica*, and *Androsace chamaejasme* indicating calcareous bedrock. Graminoids such as *Carex scirpoidea*, *Carex microchaeta*, and *Heirochloë alpina* may be present with low cover. The crustose lichens *Umbilicaria* species, *Rhizocarpon geographicum*, *Ophiopharma lapponica*, and species in the *Pertusaria* genus are constant components of the type and may occur at high cover on exposed, rocky sites. The participation of fruticose lichens such as *Cladonia stellaris*, *Flavocetraria nivalis*, *Flavocetraria cucullata*, *Vulpicida juniperina*, and *Alectoria ochroleuca*, and the dry-site moss, *Racomitrium lanuginosum* increases with protection.
 
 [diagnostic_plot]
 
@@ -56,12 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
-
-*__Example text:__*
-*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
-
-## Range
+**Dynamics Description:**  This is a late-successional type where the development of vegetation is controlled by the climatic factors of cold winter temperatures and intense summer solar radiation and may be reset by site factors such as exposure to desiccating winds, avalanche, and colluvial processes.
 
 **Range Description:** Occurring throughout the Arctic bioclimatic zone, broadly associated with high elevation sites in the Brooks Range.
 
@@ -69,7 +64,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environment Description**: While this class may occur on the active portions of inland sand dunes and along the margins of streams, rivers, ponds, and lakes, it is most common on bedrock outcrops, cliffs, rocky high elevation summits, ridges, and sideslopes. This summary is oriented towards exposed high elevation sites. Soils are patchy or absent on bedrock outcrops and cliffs or may be buried beneath scree and boulders. Where soil is present, it is shallow and well-drained, creating a habitat with low fertility and productivity. The development of vegetation is controlled by the climatic factors of cold winter temperatures and intense summer solar radiation and site factors such as exposure to desiccating winds, avalanche, and colluvial processes. 
+**Environment Description**: This [level] develops on sites that are too unstable or exposed to support continuous vegetation. Typical settings include bedrock outcrops, cliffs, and rocky high elevation summits, ridges, and sideslopes; less common settings include the active portions of inland sand dunes and the margins of streams, rivers, ponds, and lakes. Owing to disturbance, there is minimal soil development. Thin organics may accumulate over coarse mineral substrates in protected pockets of otherwise exposed, high elevation sites. Here soils are patchy, excessively drained and characterized by low fertility and productivity. Depending on parent material, soils may be circumneutral or acidic.
 
 **Physiography:** [physiography_text]
 
@@ -101,7 +96,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-05-14
+**Date:** 2026-07-13
 
 ## References
 

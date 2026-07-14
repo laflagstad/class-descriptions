@@ -56,17 +56,17 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** The intrusion of marine waters to low-lying coastal tundra can result from storm surge or thermokarst. Seasonally high tides coupled with storm events can build surges of marine water that reach above normal elevations and beyond inland extents of mean tides into freshwater and tundra systems. Thermokarst and the subsequent subsidence of the ground surface have variable effect, ranging from the permanent flooding of a site by marine waters (typical of breached lake basins), or the transition to a tidally-influenced system (typical of ice-rich polygonal tundra). Regardless of mechanism of intrusion, plants with little to no salt tolerance become vulnerable to osmotic stress, which compromises water and nutrient uptake and may result in mortality. Depending on the frequency and duration of inundation, salinity of water, and flow of fresh water through the site, salt can either be quickly removed from the system or can remain in soil at high concentrations for long periods of time. Recovery from severe salt intrusion can be slow and spatially limited.
+**Dynamics Description:** The intrusion of marine waters to low-lying coastal tundra can result from storm surge or thermokarst. Seasonally high tides coupled with storm events can build surges of marine water that reach above normal elevations and beyond inland extents of mean tides into freshwater and tundra systems. Thermokarst and the subsequent subsidence of the ground surface have variable effect, ranging from the permanent flooding of a site by marine waters (typical of breached lake basins), or the transition to a tidally-influenced system (typical of ice-rich polygonal tundra). Regardless of mechanism of intrusion, plants with little to no salt tolerance become vulnerable to osmotic stress, which compromises their water and nutrient uptake and may result in mortality. Depending on the frequency and duration of inundation, salinity of water, and flow of fresh water through the site, salt can either be quickly removed from the system, or can remain in soil at high concentrations for long periods of time. Recovery from severe salt intrusion can be slow and spatially limited.
 
 ## Range
 
-**Range Description:** Occurring on low-lying coastlines throughout the Arctic bioclimatic zone.
+**Range Description:** Occurring along coastlines throughout the Arctic bioclimatic zone.
 
 **Rarity on Landscape:** Uncommon
 
 ## Environment
 
-**Environment Description**: [unit_name] occurs along portions of the coast that are either naturally low-lying, such as large river deltas and gently sloping upper beaches or sites that have been rendered low lying by thermokarst or coastal erosion such as permafrost degraded polygonal tundra or drained lake basins. As marine waters can intrude a variety of settings, there is a corresponding range of associated soil types, textures, pH, and moisture and permafrost regimes.  
+**Environment Description**: [unit_name] occurs along portions of the coast that are either naturally low-lying, such as large river deltas and gently sloping upper beaches or sites that have been rendered low lying by thermokarst or coastal erosion such as permafrost degraded polygonal tundra or drained lake basins. As marine waters can intrude a variety of settings, there is a corresponding range of associated soil types, textures, pH, and moisture and permafrost regimes.  In general, inundation may be accompanied by the deposition of fine-sediment, an increase in soil salinity and pH, and degradation of massive or interstitial soil ice. 
 
 **Physiography:** [physiography_text]
 
@@ -96,9 +96,9 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Date:** 2026-05-14
 
-**Last Revised by:** *Enter the name (First Middle Initial Last) of the latest revision author(s).*
+**Last Revised by:** Lindsey Flagstad
 
-**Date:** *Enter the date (yyyy-mm-dd) of the revision.*
+**Date:** 2026-07-13
 
 ## References
 

@@ -8,7 +8,7 @@
 
 **Code:** 305
 
-**Concept:** This [level] encompasses areas of coastal tundra that are exposed to salt-spray and area dominated or co-dominated by the prostrate shrub *Salix ovalifolia* and salt-tolerant graminoids.
+**Concept:** This [level] encompasses areas of coastal tundra that are exposed to salt-spray and area dominated or co-dominated by the prostrate shrub *Salix ovalifolia* and salt-tolerant graminoids. Soils are moderately saline and sites are susceptible to thermokarst and storm surge.
 
 **Photos:** [TMCD3_veg3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\305_CoastalDwShrubWillowGram\TMCD3_veg3.JPG"), [TMCD3_veg6.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\305_CoastalDwShrubWillowGram\TMCD3_veg6.JPG"), [TMCW5B_t2c.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\305_CoastalDwShrubWillowGram\TMCW5B_t2c.JPG")
 
@@ -56,10 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
-
-*__Example text:__*
-*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
+**Dynamics Description:** This coastal type is susceptible to thermokarst and storm surge. The thawing of ice-rich permafrost and/or the melting of massive ground ice results in the consolidation of soils and subsidence of the soil surface, which in turn can promote further inundation and erosion of coastal tundra. Seasonally high tides coupled with storm events can build surges of marine water that reach above normal elevations and beyond inland extents of mean tides. Depending on the frequency and duration of inundation, salinity of water, and flow of fresh water through the site, salt can either be quickly removed from the system or can remain in soil at high concentrations for long periods of time. Systems may transition to brackish types where soil salinity is increased and hydrologic regime is altered towards more hydric conditions. 
 
 ## Range
 
@@ -69,7 +66,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environment Description**: This class occurs on stabilized coastal dunes and inactive tidal flats that maintain saline soils due to exposure to salt spray. Soils are typically shallow organic material over sandy silts. Lenses of storm-deposited silts and sands may occur in the organic horizon. The depth to ice-rich permafrost increases with distance away from the ocean and development of continuous vegetation, which provides both organic matter input and increased insulation for aggrading permafrost. Conversely, thawing of ice-rich permafrost and/or the melting of massive ground ice results in the consolidation and deformation of the soil surface, which in turn can promote the further inundation and erosion of coastal tundra.
+**Environment Description**: This [level] occurs on stabilized coastal dunes and inactive tidal flats that maintain moderately saline soils due to exposure to salt spray. Soils are typically shallow organic material over sandy silts. Lenses of storm-deposited silts and sands may occur in the organic horizon. The depth to ice-rich permafrost increases with distance away from the ocean and development of continuous vegetation, which provides both organic matter input and increased insulation for aggrading permafrost.
 
 **Physiography:** [physiography_text]
 
@@ -101,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad
 
-**Date:** 2026-06-23
+**Date:** 2026-07-13
 
 ## References
 

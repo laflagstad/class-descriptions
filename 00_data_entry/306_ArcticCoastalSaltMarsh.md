@@ -8,7 +8,7 @@
 
 **Code:** 306
 
-**Concept:** This [level] encompasses vegetated, tidally-influenced areas that are dominated by combinations of stoloniferous or rhizomatous graminoids and succulent forbs with high tolerance to inundation and salinity. Marshes with direct exposure to the ocean are indicated by combinations of *Puccinellia phryganodes, Stellaria humifusa* and *Cochlearia groenlandica*, with the occurrence of *Carex subspathacea* increasing landward. More protected estuaries are characterized by patchy monocultures of *Arctophila fulva, Dupontia fisheri*, *Carex ramenskii* and *Hippuris tetraphylla.* In addition to regular tidal inundation, sites are exposed to disturbance by wind, water, and rafted ice. 
+**Concept:** This [level] encompasses vegetated, tidally-influenced areas that are dominated by combinations of stoloniferous or rhizomatous graminoids and succulent forbs with high tolerance to inundation and salinity. Marshes with direct exposure to the ocean are indicated by combinations of *Puccinellia phryganodes, Stellaria humifusa* and *Cochlearia groenlandica*, with the occurrence of *Carex subspathacea* increasing landward. More protected estuaries are characterized by patchy monocultures of *Arctophila fulva, Dupontia fisheri*, *Carex ramenskii*, and *Hippuris tetraphylla.* In addition to regular tidal inundation, sites are exposed to disturbance by wind, water, and rafted ice. 
 
 **Photos:** [TMCW3_veg5.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\306_ArcticSaltMarsh\TMCW3_veg5.JPG"), [TMCW40_veg8.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\306_ArcticSaltMarsh\arcticmc_022_gooseparty.jpg"), [arcticmc_022_gooseparty.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\306_ArcticSaltMarsh\arcticmc_022_gooseparty.jpg")
 
@@ -60,13 +60,13 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Range
 
-**Range Description:** Occurring on coastlines throughout the Arctic bioclimatic zone, broadly associated with the Arctic Coastal Plain.
+**Range Description:** Occurring on coastlines throughout the Arctic bioclimatic zone.
 
 **Rarity on Landscape:** Uncommon
 
 ## Environment
 
-**Environment Description:** Salt marshes develop in protected coastal areas where relatively flat land receives regular input of marine waters.  In the Arctic, the elevational range of salt marshes is limited by a microtidal regime, which restricts the expression of salt marsh vegetation to narrow fringes along the margins of coastal rivers, deltas, and estuaries. Soils are poorly drained, very fine sands and silty clays that are often capped with a thin surface horizon of peat. Permafrost tends to be deep due to the proximity of the ocean and the heat-retaining capacity of large bodies of water. Low rates of evaporation in a northern climate coupled with localized freshwater inputs of large rivers can result in low salinity of marsh soils and waters
+**Environment Description:** Salt marshes develop in protected coastal areas where relatively flat land receives regular input of marine waters.  In the Arctic, the elevational range of salt marshes is limited by a microtidal regime, which restricts the expression of salt marsh vegetation to narrow fringes along the margins of coastal rivers, deltas, and estuaries. Soils are poorly drained, very fine sands and silty clays that are often capped with a thin surface horizon of peat. Permafrost tends to be deep due to the proximity of the ocean and the heat-retaining capacity of large bodies of water. Low rates of evaporation in a northern climate coupled with localized freshwater inputs of large rivers can result in low salinity of marsh soils and waters.
 
 **Physiography:** [physiography_text]
 
@@ -98,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-05-14
+**Date:** 2026-07-13
 
 ## References
 

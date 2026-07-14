@@ -26,7 +26,7 @@
 
 ### Structure
 
-**Structural Description:** This [level] ranges from barren substrates to those supporting a sparse growth of matted algae and low-stature halophytic plants. Woody and nonvascular species are absent.
+**Structural Description:** This [level] ranges from barren substrates to those supporting a sparse growth of matted algae and/or low-stature halophytic plants. Woody and nonvascular species are absent.
 
 **Structural Class:** barrens or partially vegetated
 
@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** Where vegetated, estuarine barrens support highly discontinuous and isolated patches of matted algae, the stoloniferous grass *Puccinellia phryganodes* (common), *Puccinellia andersonii* (uncommon), and/or succulent forbs such as *Stellaria humifusa* and *Cochlearia groenlandica.* Coastal dunes may support isolated stands of the rhizomatous grass *Leymus mollis*. 
+**Floristics Description:** Where vegetated, estuarine barrens support highly discontinuous or isolated patches of matted algae, the stoloniferous grass *Puccinellia phryganodes* (common), *Puccinellia andersonii* (uncommon), and/or succulent forbs such as *Stellaria humifusa* and *Cochlearia groenlandica.* Coastal dunes may support isolated stands of the rhizomatous grass *Leymus mollis*. 
 
 [diagnostic_plot]
 
@@ -96,9 +96,9 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Date:** 2026-05-14
 
-**Last Revised by:** *Lindsey A. Flagstad*
+**Last Revised by:** Lindsey A. Flagstad
 
-**Date:** 2026-06-23
+**Date:** 2026-07-13
 
 ## References
 

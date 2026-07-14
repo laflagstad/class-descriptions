@@ -8,7 +8,7 @@
 
 **Code:** 303
 
-**Concept:** This [level] encompasses herbaceous meadows developing on coastal beaches and dunes that are exposed to salt-spray, but are not tidally influenced. The type is indicated by the rhizomatous grass *Leymus mollis* often in combination with the succulent forbs *Honckenya peploides* and *Mertensia maritima.* Vegetation is semi-continuous yet erosion by wind and water maintains sites in an early successional state. 
+**Concept:** This [level] encompasses herbaceous meadows developing on coastal beaches and dunes that are exposed to salt-spray, but are not tidally influenced. The type is indicated by the grass *Leymus mollis* often in combination with the forbs *Honckenya peploides* and *Mertensia maritima.* Erosion by wind and water maintains sites in an early successional state. 
 
 **Photos:** [arcticmc_033_Nunivak.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\303_HerbShrubCoastalDune\arcticmc_033_Nunivak.jpg"), [arcticmc_035_Nunivak.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\303_HerbShrubCoastalDune\arcticmc_035_Nunivak_coastaldunes.jpg"), [SSMT53_aer4.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\303_HerbShrubCoastalDune\SSMT53_aer4.JPG")
 
@@ -98,7 +98,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Last Revised by:** Lindsey A. Flagstad, Rhiannon C. Glover
 
-**Date:** 2026-05-14
+**Date:** 2026-07-13
 
 ## References
 
