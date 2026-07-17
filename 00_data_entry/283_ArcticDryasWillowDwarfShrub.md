@@ -56,10 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
-
-*__Example text:__*
-*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
+**Dynamics Description:** This is a late-successional type where the development of vegetation is controlled by the climatic factors of cold winter temperatures and intense summer solar radiation and may be reset by site factors such as exposure to desiccating winds, avalanche, and colluvial processes. Permafrost is present, but ice-poor, thus perigacial processes are relatively inactive. 
 
 ## Range
 
@@ -69,7 +66,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environment Description**: Dryas Dwarf Shrub occurs on exposed, windswept areas with little winter snow cover that are underlain by continuous permafrost. This type occupies upland and lowland physiography located between the coastal zone and latitudinal tree line. *Dryas ajanensis*-dominated types are commonly associated with uplands and ridges, as well as on acidic to neutral, organic substrates in lowlands. Sites dominated by *Dryas integrifolia* are more common at higher latitudes and neutral to alkaline, mineral substrates. Where species co-occur, *Dryas ajanensis* occupies drier, more exposed microsites and *Dryas integrifolia* occupies wetter, more protected microsites, such as swales or between hummocks. 
+**Environment Description**: The [unit_name} type occurs on exposed, windswept areas with little winter snow cover that are underlain by continuous permafrost. This type occupies upland and lowland physiography located between the coastal zone and latitudinal tree line. *Dryas ajanensis*-dominated types are commonly associated with uplands and ridges, as well as on acidic to neutral, organic substrates in lowlands. Sites dominated by *Dryas integrifolia* are more common at higher latitudes and neutral to alkaline, mineral substrates. Where species co-occur, *Dryas ajanensis* occupies drier, more exposed microsites and *Dryas integrifolia* occupies wetter, more protected microsites, such as swales or between hummocks. 
 
 **Physiography:** [physiography_text]
 

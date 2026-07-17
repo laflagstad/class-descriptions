@@ -40,7 +40,7 @@ Figure 1. Plot of structural group proportions for [unit_name].
 
 ### Floristics
 
-**Floristics Description:** This [level] is indicated by combinations of hydrophytic taxa within Cyperaceae and hydrophytic, non-*Sphagnum* mosses (i.e., “brown” mosses). Dominant species are highly variable, but the sedges *Carex aquatilis*, and *Eriophorum angustifolium* and brown moss species in the *Tomentypnum*, *Campillium*, *Hamatocaulis*, *Warnstorfia*, and *Drepanocladus* genera have high constancy and frequently high cover. Less frequently, other hydrophytic sedges such as *Eriophorum russeolum*, *Carex saxatilis*, *Carex rotundata*, and *Carex membranacea* occur.  <i>Sphagnum</i> mosses, such as *Sphagnum warnstorfii* are often present but only at low cover. Accessory herbs including *Pedicularis sudetica*, *Melandrium apetalum*, *Micranthes foliolosa*, and *Saxifraga hirculus* have variable occurrence and cover.
+**Floristics Description:** This [level] is indicated by combinations of hydrophytic taxa within Cyperaceae and hydrophytic, non-*Sphagnum* mosses (i.e.,brown mosses). Dominant species are highly variable, but the sedges *Carex aquatilis*, and *Eriophorum angustifolium* and brown moss species in the *Tomentypnum*, *Campillium*, *Hamatocaulis*, *Warnstorfia*, and *Drepanocladus* genera have high constancy and frequently high cover. Less frequently, other hydrophytic sedges such as *Eriophorum russeolum*, *Carex saxatilis*, *Carex rotundata*, and *Carex membranacea* occur.  <i>Sphagnum</i> mosses, such as *Sphagnum warnstorfii* are often present but only at low cover. Accessory herbs including *Pedicularis sudetica*, *Melandrium apetalum*, *Micranthes foliolosa*, and *Saxifraga hirculus* have variable occurrence and cover.
 
 [diagnostic_plot]
 

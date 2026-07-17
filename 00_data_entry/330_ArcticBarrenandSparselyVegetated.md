@@ -56,7 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:**  This is a late-successional type where the development of vegetation is controlled by the climatic factors of cold winter temperatures and intense summer solar radiation and may be reset by site factors such as exposure to desiccating winds, avalanche, and colluvial processes.
+**Dynamics Description:**  This is a late-successional type where the development of vegetation is controlled by the climatic factors of cold winter temperatures and intense summer solar radiation and may be reset by site factors such as exposure to desiccating winds, avalanche, and colluvial processes.  Permafrost is present, but ice-poor, thus perigacial processes are relatively inactive. 
 
 **Range Description:** Occurring throughout the Arctic bioclimatic zone, broadly associated with high elevation sites in the Brooks Range.
 

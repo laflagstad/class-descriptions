@@ -8,7 +8,7 @@
 
 **Code:** 284
 
-**Concept:** This [level] encompasses mesic tundra dominated by dwarf to low ericaceous shrubs often mixed with dwarf willow and *Dryas* shrubs, as well as abundant lichens and mosses.
+**Concept:** This [level] encompasses mesic tundra dominated by dwarf to low ericaceous shrubs often mixed with dwarf willow and *Dryas* shrubs, as well as abundant lichens and mosses. The type ranges from wind exposed, low stature communities to lush vegetation in protected, lowland sites.
 
 **Photos:** [NPRA2015_ADST63_T3.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\284_EricaceousDwShrub\NPRA2015_ADST63_T3.JPG"), [NPRA2015_ADST67_veg1.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\284_EricaceousDwShrub\NPRA2015_ADST67_veg1.JPG"), [NPRA2015_ADST65_veg7.jpg]("S:\Ecology\Alaska_NVC\Alliance Review 2026\Arctic Map Class Descriptions\MapClassPhotos\284_EricaceousDwShrub\NPRA2015_ADST65_veg7.JPG")
 
@@ -56,10 +56,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Dynamics
 
-**Dynamics Description:** *Provide a paragraph discussing disturbance, succession, and threats. Present disturbances in decreasing order of severity (combination of scale, duration, and intensity) and address disturbance in terms of scale, duration, and intensity. Address the vegetation types preceding and proceeding this type along a pathway of natural succession. Address threats where appropriate, discuss in terms of short and long-term, natural and anthropogenic. Let’s not shy away from including climate change as a short term, anthropogenic threat as well as a long-term natural process.*
-
-*__Example text:__*
-*Large-scale disturbances affecting steppe bluffs include fire and mass wasting; smaller-scale disturbances include burrowing or grazing by rodents and ungulates. Fire and landslides are thought to favor development of this type by removing competitive forest taxa and exposing mineral soil for colonization by seedlings, thereby altering the competitive balance in favor of faster growing, more readily dispersed plants. Steppe associations depend on disturbance to persist and are thought to be seral to Populus tremuloides woodlands. Where there is sufficient moisture, Betula neoalaskana and Picea glauca are able to colonize the Populus tremuloides woodland with a dry Picea glauca forest eventually establishing. Following fire, Populus tremuloides woodlands may revert to steppe associations. As one of the warmest and driest microclimates in the boreal and Arctic, this type is susceptible to invasion by nonnative ruderal species introduced from more temperate climates.*
+**Dynamics Description:** Wind and the varible retetion of snow direct the stature and extext of the type at elevation. More exposed sites are susceptible to mass wasting events such as landslides and avalanches. Sites underlain by ice rich permafrost experience surficial disturbances such as frost boils and scars.
 
 ## Range
 
@@ -69,7 +66,7 @@ Figure 3. Plot of range from 25th percentile to 75th percentile and mean for ind
 
 ## Environment
 
-**Environment Description**: Ericaceous Dwarf Shrub occurs in upland and lowland physiography located between the coastal zone and latitudinal tree line. This type develops continuous and lush vegetation on sites that are protected from the wind and retain snow such as valleys, north-facing slopes, and meadows. These sites are often underlain by ice-rich permafrost, resulting in surficial disturbances such as frost boils and scars. At higher elevations, this class develops discontinuous and lower stature vegetation in more wind exposed sites such as talus and scree slopes and concave microtopography along summits and ridges. Soils of these sites are well to excessively well-drained and range from acidic to circumneutral. These more exposed sites are susceptible to mass wasting events such as landslides and avalanches. 
+**Environment Description**: The [unit_name] type occurs in upland and lowland physiography located between the coastal zone and latitudinal tree line. This type develops continuous and lush vegetation on sites that are protected from the wind and retain snow such as valleys, north-facing slopes, and meadows. These lowland sites are underlain by ice-rich permafrost. At higher elevations, this class develops discontinuous and lower stature vegetation in more wind exposed sites such as talus and scree slopes and concave microtopography along summits and ridges. Soils of these sites are well to excessively well-drained and range from acidic to circumneutral. 
 
 **Physiography:** [physiography_text]
 
@@ -95,7 +92,7 @@ Table 3. Mean and range for quantitative environmental characteristics for [unit
 
 **Map Version**: 3.0
 
-**Described By:** Lindsey A. Flagstad, Keith Boggs
+**Described By:** Lindsey A. Flagstad, Keith W. Boggs
 
 **Date:** 2016-01-19
 
